@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377901512000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/menu/main.xml
+1377901512000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/values/styles.xml
+1377905114000 7256 f3963760237ebefa243d01922bbc2efd875f4a6f /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/drawable-xhdpi/ic_launcher.png
+1377905114000 12388 ab36c227c23049569ef914b1e8d27fb4f503d062 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/drawable-xxhdpi/ic_launcher.png
+1377901512000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/values-sw600dp/dimens.xml
+1377905114000 2808 c0777b4b978e43d8fbd001a9bd06248c0cad8c8f /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/drawable-mdpi/ic_launcher.png
+1377901512000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/values/dimens.xml
+1377905114000 5157 d3a9ada46fa40aeca3b3242d134ced7c1e2a7c53 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/drawable-hdpi/ic_launcher.png
+1377901787000 527 bbca8249a79a0ece19e32faaf85fe5148b48ac97 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/layout/activity_main.xml
+1377901512000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/values-sw720dp-land/dimens.xml
+1377901512000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/values-v14/styles.xml
+1377901512000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/values-v11/styles.xml
+1377901512000 218 2438019df4a4f73ddd5518468d3034196d92def4 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/values/strings.xml

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/assets" >
+            <file
+                name="js/main.js"
+                path="/Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/assets/js/main.js" />
+            <file
+                name="js/songdata.js"
+                path="/Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/assets/js/songdata.js" />
+            <file
+                name="index.html"
+                path="/Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/assets/index.html" />
+            <file
+                name="app.css"
+                path="/Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/main/assets/app.css" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/src/debug/assets" />
+    </dataSet>
+
+</merger>
