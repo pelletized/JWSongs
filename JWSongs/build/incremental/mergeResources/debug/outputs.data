@@ -1,13 +1,13 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1377901534000 331 a1027a301d51cbd529ebebed5a28bed09e35ac89 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/values-v14/values.xml
-1377901534000 1115 c4da74782c83ddb0900e0bab93d681152b361c9c /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/values/values.xml
-1377905653000 7247 5ff82f122efef5be5b24da8ad3fe74482d891622 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1377905653000 4166 a2a20beed241c27f019d72fc42bf3ef4e1003f9c /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/drawable-xhdpi/ic_launcher.png
-1377901534000 345 573358a4cc80867c1be12f173bc12a0535b9f100 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/menu/main.xml
-1377905653000 2084 7fad3429911e6cdc6430c2949394845df6cc16c8 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/drawable-mdpi/ic_launcher.png
-1377901534000 317 165b69bd5c5ff3fdfdfea5449443e4867fef3617 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/values-v11/values.xml
-1377905653000 2899 ff1e20995dd346300dcb46351ae99bde380ffb83 /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/drawable-hdpi/ic_launcher.png
-1377901534000 248 00f0fa99b6baf176f31bff1540c4a0923c3406fd /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/values-sw720dp-land/values.xml
-1377901887000 639 1d2df51c958984ef06bb4586a4923c70174a315f /Users/edwheeler/AndroidStudioProjects/JWSongs/JWSongs/build/res/all/debug/layout/activity_main.xml
+1378566838823 347 2005d60edb9917d6413cf768759c08e47c9da2ed C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\menu\main.xml
+1381976471419 991 84caabc71f22e34af046c6ba124d0e67fa1bf86b C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1381976471442 2554 7096c2e57e93484856c384aaff36b3c766d19299 C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1378566838993 321 f4c798df45c9fc9f1b8713aac8a00499bdafa0fe C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\values-v11\values.xml
+1378566838822 649 2af2893a4be60c89c9c6d933b258e383932f269e C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\layout\activity_main.xml
+1381976471432 1777 1a305156e65b00b25ae133f49692002da3ca37db C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1378566839002 250 d132faf92492426eb83940e569c77e927d692422 C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\values-sw720dp-land\values.xml
+1378566838975 1124 c87969c47887848aa988031d58865e77a2503ea6 C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\values\values.xml
+1378566838984 335 753f9b597de1b99c46bf833044c6add139481db8 C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\values-v14\values.xml
+1381976471426 1421 318d7ce0a794a3bb0b6779459ba798ce06370834 C:\Users\Ed\AndroidStudioProjects\JWSongs\JWSongs\build\res\all\debug\drawable-hdpi\ic_launcher.png

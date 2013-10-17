@@ -22,7 +22,7 @@
 				
 				button.addEventListener("click", function() {
 					var buttonText = this.innerHTML;		
-					console.log(buttonText);
+					//console.log(buttonText);
 					var toc = document.getElementById("toc");
 					toc.style.display = "none";
 					
@@ -32,7 +32,6 @@
 				}, false);
 
 			}
-			
 		}
 
 		function buildSong(buttonText) {
@@ -56,17 +55,19 @@
 			songContent = '<div id="song' + songNumber + '" class="song">\n';
 			songContent += '<h1><span class="song-number">' + songNumber + '</span> ' + songTitle + '</h1>\n';
 			songContent += '<p class="verse">' + verse1 + '</p>\n';
+			
 			//chorus
 			if (chorus) {
 				songContent += '<p class="chorus">CHORUS:<br />' + chorus + '</p>\n';
 			}
 			if (verseOthers) {
-				songContent += '<p class="verse">' + verseOthers[0] + '</p>\n';
-
+				if (verseOthers[0]) {
+					songContent += '<p class="verse">' + verseOthers[0] + '</p>\n';
+				}
 				if (verseOthers[1]) {
 					songContent += '<p class="verse">' + verseOthers[1] + '</p>\n';
 				}
-			}
+			}			
 
 			songContent += '<p class="song-footer">Taken from: ' + scripture + ' ' + footer + '</p>';
 			songContent += '</div>';
@@ -81,4 +82,20 @@
 			toc.style.display = "block";			
 		}
 
+
 		createList();		
+		
+		function swipe() {
+			window.addEventListener('load', function() { 
+				//var result = document.getElementById("result");
+				//console.log(result);				
+				var hammer = new Hammer(document.getElementById("body"));
+				hammer.ondoubletap = function(e){
+				  console.log("CAN touch this!");
+				};			
+				
+			}, false);			
+		}
+		
+		//swipe();
+
