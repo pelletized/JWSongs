@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="Font Size"
+        android:key="fontsize"
+        android:summary="Choose a default font size"
+        android:entries="@array/fontsize"
+        android:entryValues="@array/fontsizeValues"
+        ></ListPreference>
+</PreferenceScreen>
