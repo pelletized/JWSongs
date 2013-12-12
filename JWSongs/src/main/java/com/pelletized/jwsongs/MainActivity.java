@@ -21,42 +21,34 @@ public class MainActivity extends Activity {
         WebView webView = (WebView) findViewById(R.id.webView);
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-
-        SharedPreferences getPrefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
-        Integer fontSize = Integer.parseInt(getPrefs.getString("fontsize", "14"));
-        Integer fontSizeValue = 14;
-
-        switch (fontSize) {
-            case 14:
-                fontSizeValue = 14;
-            break;
-            case 18:
-                fontSizeValue = 18;
-            break;
-            case 22:
-                fontSizeValue = 22;
-            break;
-            case 26:
-                fontSizeValue = 26;
-            break;
-        }
-
-        webSettings.setDefaultFontSize(fontSizeValue);
+        webSettings.setDefaultFontSize(getFontSize());
         webView.loadUrl("file:///android_asset/index.html");
 
         //the home button
         //getActionBar().setHomeButtonEnabled(true);
-
-
     }
 
-    /*
-    @Override
-    public void onBackPressed() {
-        WebView webView = (WebView) findViewById(R.id.webView);
-        webView.reload();
+    public int getFontSize() {
+        SharedPreferences getPrefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
+        Integer fontSize = Integer.parseInt(getPrefs.getString("fontsize", "14"));
+        Integer fontSizeValue;
+
+        switch (fontSize) {
+            case 18:
+                fontSizeValue = 18;
+                break;
+            case 22:
+                fontSizeValue = 22;
+                break;
+            case 26:
+                fontSizeValue = 26;
+                break;
+            default:
+                fontSizeValue = 14;
+                break;
+        }
+        return fontSizeValue;
     }
-    */
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -72,25 +64,24 @@ public class MainActivity extends Activity {
         // as you specify a parent activity in AndroidManifest.xml.
         switch (item.getItemId()) {
             case R.id.action_settings:
-                Intent i = new Intent("com.pelletized.jwsongs.PREFS");
-                startActivity(i);
+                Intent intent = new Intent("com.pelletized.jwsongs.PREFS");
+                startActivityForResult(intent, R.id.action_settings);
                 return true;
         }
         return super.onOptionsItemSelected(item);
     }
 
-/*
     @Override
-    protected void onResume() {
-        super.onResume();
-        //this.onCreate(null);
-
-
+    protected void onActivityResult(int req, int result, Intent data) {
+        switch( req ) {
+            case R.id.action_settings:
+                WebView webView = (WebView) findViewById(R.id.webView);
+                WebSettings webSettings = webView.getSettings();
+                webSettings.setDefaultFontSize(getFontSize());
+                webView.reload();
+            break;
+        }
     }
-*/
-
-
-
 
 
 }
