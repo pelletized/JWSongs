@@ -79,12 +79,18 @@ public class MainActivity extends Activity {
         return super.onOptionsItemSelected(item);
     }
 
-    /*
+/*
     @Override
     protected void onResume() {
-
         super.onResume();
-        this.onCreate(null);
+        //this.onCreate(null);
+
+
     }
-    */
+*/
+
+
+
+
+
 }

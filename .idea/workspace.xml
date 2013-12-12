@@ -16,16 +16,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f34efc-db0a-4b9a-a7ba-6b8c991f77fa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/build/res/all/debug/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/JWSongs/build/res/all/debug/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/build/res/all/debug/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/JWSongs/build/res/all/debug/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/build/res/all/debug/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/JWSongs/build/res/all/debug/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/JWSongs/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/JWSongs/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/JWSongs/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/JWSongs/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/JWSongs/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/build/source/buildConfig/debug/com/pelletized/jwsongs/BuildConfig.java" afterPath="$PROJECT_DIR$/JWSongs/build/source/buildConfig/debug/com/pelletized/jwsongs/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/JWSongs/build/res/all/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" afterPath="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JWSongs.iws" />
@@ -130,19 +122,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="60" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="714">
+            <state line="18" column="52" selection-start="655" selection-end="655" vertical-scroll-proportion="0.74307305" vertical-offset="11" max-vertical-offset="748">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="6" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.35768262" vertical-offset="1099" max-vertical-offset="1496">
+            <state line="45" column="0" selection-start="1412" selection-end="1412" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1598">
               <folding />
             </state>
           </provider>
@@ -523,14 +515,14 @@
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/app.css" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/themes.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/menu/main.xml" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/menu/prefs.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/prefsActivity.java" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" />
         <option value="$PROJECT_DIR$/JWSongs/build/res/all/debug/menu/main.xml" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -566,7 +558,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -653,7 +645,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -903,7 +895,11 @@
       <created>1380472710308</created>
       <updated>1380472710308</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new launcher icons">
+      <created>1386680196330</created>
+      <updated>1386680196330</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -928,12 +924,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="426" y="172" width="1253" height="783" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.49958017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23677582" sideWeight="0.67038214" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.49958017" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -950,11 +945,12 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24601175" sideWeight="0.67038214" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24601175" sideWeight="0.67038214" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32539684" sideWeight="0.49958017" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23677582" sideWeight="0.67038214" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -974,12 +970,53 @@
     </option>
     <MESSAGE value="bug fixes, better layout for phone sizes" />
     <MESSAGE value="adding preferences activity, changing font size&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding preferences activity, changing font size&#10;" />
+    <MESSAGE value="new launcher icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="new launcher icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="50" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/prefsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="60" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="6" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.0" vertical-offset="1377" max-vertical-offset="1632">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/build/res/all/debug/menu/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="23" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="357">
@@ -1024,58 +1061,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/build/res/all/debug/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="52" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="50" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/prefsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="60" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="6" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.0" vertical-offset="1377" max-vertical-offset="1632">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/build/res/all/debug/menu/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml">
@@ -1087,9 +1073,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="2" column="8" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml">
@@ -1121,20 +1105,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="2" column="8" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
@@ -1152,20 +1134,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="340">
-          <folding />
-        </state>
+        <state line="2" column="8" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
@@ -1213,13 +1193,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="370">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/build.gradle">
@@ -1284,16 +1264,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="97" selection-end="97" vertical-scroll-proportion="0.085642315" vertical-offset="0" max-vertical-offset="397">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="60" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="714">
-          <folding />
-        </state>
+        <state line="2" column="8" selection-start="97" selection-end="97" vertical-scroll-proportion="0.085642315" vertical-offset="0" max-vertical-offset="397" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/prefsActivity.java">
@@ -1310,14 +1281,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/build/res/all/debug/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="566">
+        <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="566" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/build/res/all/debug/xml/prefs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="397">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="6" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.35768262" vertical-offset="1099" max-vertical-offset="1496">
+        <state line="45" column="0" selection-start="1412" selection-end="1412" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="52" selection-start="655" selection-end="655" vertical-scroll-proportion="0.74307305" vertical-offset="11" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
