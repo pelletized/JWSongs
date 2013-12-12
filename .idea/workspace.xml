@@ -16,7 +16,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f34efc-db0a-4b9a-a7ba-6b8c991f77fa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" afterPath="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js" afterPath="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JWSongs.iws" />
@@ -97,7 +98,7 @@
       <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="52" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
+            <state line="4" column="52" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
@@ -124,16 +125,28 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="52" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="748">
+            <state line="35" column="28" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="782">
+              <folding>
+                <element signature="e#627#645#0" expanded="true" />
+                <element signature="e#1052#1077#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="songdata.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="814" column="99" selection-start="53225" selection-end="53225" vertical-scroll-proportion="0.71428573" vertical-offset="13583" max-vertical-offset="30498">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="25" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.40302268" vertical-offset="469" max-vertical-offset="1581">
+            <state line="37" column="25" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.0" vertical-offset="469" max-vertical-offset="1581">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -512,7 +525,6 @@
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/index.html" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js" />
         <option value="$PROJECT_DIR$/local.properties" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/app.css" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/themes.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/menu/main.xml" />
@@ -522,8 +534,9 @@
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/prefsActivity.java" />
         <option value="$PROJECT_DIR$/JWSongs/build/res/all/debug/menu/main.xml" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js" />
       </list>
     </option>
   </component>
@@ -636,11 +649,123 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jwsongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JWSongs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -904,7 +1029,11 @@
       <created>1386817247734</created>
       <updated>1386817247734</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reload activity only when font changes in preferences">
+      <created>1386868061100</created>
+      <updated>1386868061100</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -943,7 +1072,7 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5004198" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698414" sideWeight="0.49958017" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32857144" sideWeight="0.49958017" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32961783" sideWeight="0.49958017" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.49958017" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -978,7 +1107,8 @@
     <MESSAGE value="new launcher icons" />
     <MESSAGE value="fixed activity reloading on orientation change" />
     <MESSAGE value="font change in prefs reloads activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="font change in prefs reloads activity" />
+    <MESSAGE value="reload activity only when font changes in preferences" />
+    <option name="LAST_COMMIT_MESSAGE" value="reload activity only when font changes in preferences" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1008,7 +1138,10 @@
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="60" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="714">
-          <folding />
+          <folding>
+            <element signature="e#627#645#0" expanded="true" />
+            <element signature="e#1052#1077#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1057,7 +1190,10 @@
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="60" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="714">
-          <folding />
+          <folding>
+            <element signature="e#627#645#0" expanded="true" />
+            <element signature="e#1052#1077#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,7 +1240,10 @@
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="33" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="561">
-          <folding />
+          <folding>
+            <element signature="e#627#645#0" expanded="true" />
+            <element signature="e#1052#1077#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1135,7 +1274,10 @@
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="33" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding />
+          <folding>
+            <element signature="e#627#645#0" expanded="true" />
+            <element signature="e#1052#1077#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1166,7 +1308,10 @@
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="561">
-          <folding />
+          <folding>
+            <element signature="e#627#645#0" expanded="true" />
+            <element signature="e#1052#1077#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1200,11 +1345,6 @@
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="1" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="354" max-vertical-offset="2227" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30498" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/layout/activity_main.xml">
@@ -1251,13 +1391,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="52" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/preference/ListPreference.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="0" selection-start="2017" selection-end="2017" vertical-scroll-proportion="0.74307305" vertical-offset="504" max-vertical-offset="901" />
@@ -1292,13 +1425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="52" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="50" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
@@ -1315,10 +1441,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="25" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.40302268" vertical-offset="469" max-vertical-offset="1581">
+        <state line="37" column="25" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.0" vertical-offset="469" max-vertical-offset="1581">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="28" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="782">
+          <folding>
+            <element signature="e#627#645#0" expanded="true" />
+            <element signature="e#1052#1077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="814" column="99" selection-start="53225" selection-end="53225" vertical-scroll-proportion="0.71428573" vertical-offset="13583" max-vertical-offset="30498">
+          <folding />
         </state>
       </provider>
     </entry>

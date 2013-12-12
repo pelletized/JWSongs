@@ -39,7 +39,7 @@ var songdata = [
 				"3. Never let resentment lead you; May it never take your hand. Look to God, and he will guide you; He will teach you these commands: Love of God and love of neighbor, Ev'rything that love should be. May we always show to others Godlike love, yes, tenderly."
 		],
 		//"chorus" : "this is a chorus",
-		"footer" : "(See also Mark 12:30, 31; 1 Cor. 12:31–13:8; 1 John 3:23.)"	
+		"footer" : "(See also Mark 12:30, 31; 1 Cor. 12:31ï¿½13:8; 1 John 3:23.)"	
 	},
 	{
 		"number" : "4",
@@ -494,7 +494,7 @@ var songdata = [
 	},
 	{
 		"number" : "37",
-		"title" : "The Scriptures—Inspired of God",
+		"title" : "The Scripturesï¿½Inspired of God",
 		"scripture" : "(2 Timothy 3:16, 17)",
 		"verse" : [			
 				"1. God's Word is a shining light, Guides our feet through earth's dark night. If we follow it faithfully, Surely its truth will set us free. ",
@@ -739,7 +739,7 @@ var songdata = [
 	},
 	{
 		"number" : "55",
-		"title" : "Life Without End—At Last!",
+		"title" : "Life Without Endï¿½At Last!",
 		"scripture" : "( John 3:16)",
 		"verse" : [			
 				"1. Can you see with your mind's eye, Peoples dwelling together? Sorrow has passed. Peace at last! Life without tears or pain.",
@@ -770,9 +770,9 @@ var songdata = [
 		"title" : "The Meditation of My Heart",
 		"scripture" : "(Psalm 19:14)",
 		"verse" : [			
-				"1. The meditation of my heart, The thoughts I ponder through the day— May they be pleasing to you, Lord, And keep me steadfast in your way. When worries weigh upon my mind And make me restless in the night, Then may I meditate on you And things I know to be upright. ",
+				"1. The meditation of my heart, The thoughts I ponder through the dayï¿½ May they be pleasing to you, Lord, And keep me steadfast in your way. When worries weigh upon my mind And make me restless in the night, Then may I meditate on you And things I know to be upright. ",
 
-				"2. Whatever things are chaste and true, Whatever virtue there may be, Whatever things well-spoken of— May thoughts of these bring peace to me. How precious are your thoughts, O God! Beyond all counting is their sum. So may I ponder your own words, Absorbed in them may I become."
+				"2. Whatever things are chaste and true, Whatever virtue there may be, Whatever things well-spoken ofï¿½ May thoughts of these bring peace to me. How precious are your thoughts, O God! Beyond all counting is their sum. So may I ponder your own words, Absorbed in them may I become."
 		],
 		//"chorus" : "",
 		"footer" : "(See also Ps. 49:3; 63:6; 139:17, 23; Phil. 4:7, 8; 1 Tim. 4:15.)"	
@@ -812,7 +812,7 @@ var songdata = [
 
 				"2. God gave his own beloved Son in your behalf; On this account, He wants you to succeed. If He did not withhold the gift of His dear Son, Then never doubt He'll give the strength you need. He won't forget the faith and love you've shown; He will not fail to care for all His own."
 		],
-		"chorus" : "With Jesus' blood He bought you, to God you now belong. So he will make you fir m, and he will make you strong. He'll guide you and protect you, as he has all along. Yes, he will make you firm, and he will make you strong.",
+		"chorus" : "With Jesus' blood He bought you, to God you now belong. So he will make you firm, and he will make you strong. He'll guide you and protect you, as he has all along. Yes, he will make you firm, and he will make you strong.",
 		"footer" : "(See also Rom. 8:32; 14:8, 9; Heb. 6:10; 1 Pet. 2:9.)"	
 	},	
 	{
@@ -1073,7 +1073,7 @@ var songdata = [
 
 				"2. In his likeness he has made us So that we might cultivate All the virtues he possesses And his goodness imitate. May we grow in godly goodness, In his virtues may we share. Let us pray for holy spirit, That its fruitage we might bear. ",
 
-				"3. Those to whom we are related In the faith—our brotherhood— We will show them special favor, But to all may we do good. As we share the Kingdom good news And our hope with all we meet, May we always be impartial; May our goodness be complete."
+				"3. Those to whom we are related In the faithï¿½our brotherhoodï¿½ We will show them special favor, But to all may we do good. As we share the Kingdom good news And our hope with all we meet, May we always be impartial; May our goodness be complete."
 		],
 		//"chorus" : "",
 		"footer" : "(See also Ps. 103:10; Mark 10:18; Gal. 5:22; Eph. 5:9.)"	
@@ -1083,7 +1083,7 @@ var songdata = [
 		"title" : "\"Give Us More Faith\"",
 		"scripture" : "(Luke 17:5)",
 		"verse" : [			
-				"1. Because we are imperfect, O Jehovah, The inclination of our heart is flawed. There is a sin that easily ensnares us— A lack of faith in you, the living God.",
+				"1. Because we are imperfect, O Jehovah, The inclination of our heart is flawed. There is a sin that easily ensnares usï¿½ A lack of faith in you, the living God.",
 
 				"2. Apart from faith, no one can fully please you. We must believe our faith will be repaid. And as a shield, our faith provides a refuge. We face the future firm and unafraid."
 		],
@@ -1147,7 +1147,7 @@ var songdata = [
 		"title" : "Faithful Women, Christian Sisters",
 		"scripture" : "(Romans 16:2)",
 		"verse" : [			
-				"1. Sarah and Esther, Mary, Ruth, and others— All these were capable women, loyal wives. Godly devotion was foremost in their lives. They were faithful women, ones we know by name. There were others favored by Jehovah, Nameless in the record, their faith was just the same. ",
+				"1. Sarah and Esther, Mary, Ruth, and othersï¿½ All these were capable women, loyal wives. Godly devotion was foremost in their lives. They were faithful women, ones we know by name. There were others favored by Jehovah, Nameless in the record, their faith was just the same. ",
 
 				"2. Loyalty, courage, goodness, loving-kindness, Lovable qualities in all humankind, Virtues these excellent women bring to mind. They were fine examples all can imitate. Christian sisters, walking in their footsteps, Worthy is your service and happy your estate. ",
 
@@ -1173,7 +1173,7 @@ var songdata = [
 		"verse" : [			
 				"1. When a man becomes a father And a woman has a child of her own, They share a trust, they must remember, That is not theirs, not theirs alone. The gift they share is from Jehovah; Of life and love he is the one true Source. To parents he gives sure direction That they may follow the wisest course.",
 
-				"2. All the words God has commanded— They must always prove to be on your heart. These words you'll speak to sons and daughters; This is your trust, this is your part. To them you'll speak along your roadway, When you rise up and when you are at rest. In years to come, may they remember, May they be faithful, may they be blessed."
+				"2. All the words God has commandedï¿½ They must always prove to be on your heart. These words you'll speak to sons and daughters; This is your trust, this is your part. To them you'll speak along your roadway, When you rise up and when you are at rest. In years to come, may they remember, May they be faithful, may they be blessed."
 		],
 		"chorus" : "A sacred trust you have been given; A precious life is in your hands. You can bestow the greatest favor; Instruct your child in God's commands.",
 		"footer" : "(See also Deut. 6:6, 7; Eph. 6:4; 1 Tim. 4:16.)"	
@@ -1265,7 +1265,7 @@ var songdata = [
 
 				"2. For those in the full-time service, Rich blessings and treasures abound. By trusting in God to care for their needs, In all things contentment is found."
 		],
-		"chorus" : "God's Word invites us: 'Come taste and see— See that Jehovah is good.' Godly devotion brings greatest gain, We know we've done all we could. ",
+		"chorus" : "God's Word invites us: 'Come taste and seeï¿½ See that Jehovah is good.' Godly devotion brings greatest gain, We know we've done all we could. ",
 		"footer" : "(See also Mark 14:8; Luke 21:2; 1 Tim. 1:12; 6:6.)"	
 	},
 	{
@@ -1504,7 +1504,7 @@ var songdata = [
 	},
 	{
 		"number" : "114",
-		"title" : "God's Own Book—A Treasure",
+		"title" : "God's Own Bookï¿½A Treasure",
 		"scripture" : "(Proverbs 2:1)",
 		"verse" : [			
 				"1. There is a book that by its many pages, Brings peace and joy and hope to humankind. Its wondrous thoughts are charged with such great power; It brings life to the \"dead,\" sight to the \"blind.\" That precious book is God's own Holy Bible. Its words were penned by men whom God inspired, By men who truly loved their God Jehovah, And by his holy spirit they were fired. ",
@@ -1626,7 +1626,7 @@ var songdata = [
 	},
 	{
 		"number" : "123",
-		"title" : "Shepherds—Gifts in Men",
+		"title" : "Shepherdsï¿½Gifts in Men",
 		"scripture" : "(Ephesians 4:8)",
 		"verse" : [			
 				"1. Help in our lives, Jehovah provides, Shepherds to tend his flock. By their example they serve as guides, Showing us how to walk.",
@@ -1691,7 +1691,7 @@ var songdata = [
 		"title" : "The Scene of This World Is Changing",
 		"scripture" : "(1 Corinthians 7:31)",
 		"verse" : [			
-				"1. To give us hope and to save us From sin and death that enslave us, His only Son our God gave us— No gift could have greater worth.",
+				"1. To give us hope and to save us From sin and death that enslave us, His only Son our God gave usï¿½ No gift could have greater worth.",
 
 				"2. The world around us is ailing. The wicked system is failing. But God's rule we are now hailing; The Kingdom has come to birth."
 		],
@@ -1715,11 +1715,11 @@ var songdata = [
 		"title" : "The Miracle of Life",
 		"scripture" : "(Psalm 36:9)",
 		"verse" : [			
-				"1. Ev'ry newborn child, Ev'ry drop of rain, Ev'ry golden ray of sun, Each head of grain— All are gifts from God; They reveal his way. Miracles performed by him sustain us each day.",
+				"1. Ev'ry newborn child, Ev'ry drop of rain, Ev'ry golden ray of sun, Each head of grainï¿½ All are gifts from God; They reveal his way. Miracles performed by him sustain us each day.",
 
 				"2. Others may give up, Lose their will to try, Echoing the wife of Job: \"Curse God and die.\" We are not that way. Praise to God we give, Thanking him for ev'ry precious moment we live."
 		],
-		"chorus" : "So, what are we to do with a gift so rare But to love the One who gave it and show him we care. No matter what we do, We never can earn it. This gift is still a gift—The miracle of life. ",
+		"chorus" : "So, what are we to do with a gift so rare But to love the One who gave it and show him we care. No matter what we do, We never can earn it. This gift is still a giftï¿½The miracle of life. ",
 		"footer" : "(See also Job 2:9; Ps. 34:12; Eccl. 8:15; Matt. 22:37-40; Rom. 6:23.)"	
 	},
 	{
@@ -1727,7 +1727,7 @@ var songdata = [
 		"title" : "Jehovah Provides Escape",
 		"scripture" : "(2 Samuel 22:1-8)",
 		"verse" : [			
-				"1. The living God, Jehovah, you have proved to be; Your mighty works abound in  earth and sky and sea. No rival god can equal what you have done —there is none. Our foes will be consumed.",
+				"1. The living God, Jehovah, you have proved to be; Your mighty works abound in  earth and sky and sea. No rival god can equal what you have done ï¿½there is none. Our foes will be consumed.",
 
 				"2. Though ropes of death encircle me, I call to you, \"Jehovah, give me strength, and give me courage too.\" From your own temple dwelling, you hear my plea, \"Shelter me; Rescue me, O my God.\"",
 
