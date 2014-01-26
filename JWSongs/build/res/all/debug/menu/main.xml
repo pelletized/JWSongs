@@ -11,5 +11,9 @@
         android:title="@string/action_settings"
         android:orderInCategory="100"
         android:showAsAction="never" />
+    <item android:id="@+id/rateApp"
+        android:title="Rate this app"
+        android:orderInCategory="200"
+        android:showAsAction="never" />
 </menu>
 <!-- From: file:/C:/Users/Ed/AndroidStudioProjects/JWSongs/JWSongs/src/main/res/menu/main.xml -->

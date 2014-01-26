@@ -8,4 +8,11 @@
         android:entries="@array/fontsize"
         android:entryValues="@array/fontsizeValues"
         ></ListPreference>
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:title="Screen Sleep"
+        android:key="sleepPrefs"
+        android:summaryOn="Keep screen active while using app"
+        android:summaryOff="Use phone defaults for screen"
+        ></CheckBoxPreference>
 </PreferenceScreen>
