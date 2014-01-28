@@ -1,12 +1,11 @@
 package com.pelletized.jwsongs;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
-import android.app.Activity;
 import android.preference.PreferenceManager;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.webkit.WebSettings;
@@ -22,15 +21,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //the webview
-        webView = (WebView) findViewById(R.id.webView);
-        WebSettings webSettings = webView.getSettings();
-        webSettings.setJavaScriptEnabled(true);
-        webSettings.setDefaultFontSize(getFontSize());
-        //appUrl = "file:///android_asset/index.html";
-        webView.loadUrl(appUrl);
-
-        //getScreenPrefs();
+        getWebView();
 
         //the home button
         getActionBar().setHomeButtonEnabled(true);
@@ -59,18 +50,28 @@ public class MainActivity extends Activity {
         return fontSizeValue;
     }
 
-
-
+    private void getWebView() {
+        //the webview
+        webView = (WebView) findViewById(R.id.webView);
+        WebSettings webSettings = webView.getSettings();
+        webSettings.setJavaScriptEnabled(true);
+        webSettings.setDefaultFontSize(getFontSize());
+        webSettings.setDefaultTextEncodingName("utf-8");
+        //appUrl = "file:///android_asset/index.html";
+        webView.loadUrl(appUrl);
+    }
 
     private boolean getScreenPrefs() {
         SharedPreferences getPrefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
-        boolean screenPrefs = getPrefs.getBoolean("sleepPrefs", true);
+        boolean screenPrefs = getPrefs.getBoolean("sleepPrefs", false);
+
+        //getWindow().addFlags(android.view.WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
         if(screenPrefs) {
-            Log.d("mainactivity","screen should stay ON");
+            //Log.d("mainactivity","screen should stay ON");
             getWindow().addFlags(android.view.WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         } else {
-            Log.d("mainactivity","screen should be OFF");
+            //Log.d("mainactivity","screen should be OFF");
             getWindow().clearFlags(android.view.WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         }
 
@@ -115,12 +116,11 @@ public class MainActivity extends Activity {
 
     @Override
     protected void onActivityResult(int req, int result, Intent data) {
+        //when coming back from prefsActivity, this runs
         switch( req ) {
             case R.id.action_settings:
-                webView = (WebView) findViewById(R.id.webView);
-                WebSettings webSettings = webView.getSettings();
-                webSettings.setDefaultFontSize(getFontSize());
-                webView.reload();
+                getScreenPrefs();
+                getWebView();
             break;
         }
     }
