@@ -98,7 +98,11 @@ public class MainActivity extends Activity {
                 Intent intent = new Intent("com.pelletized.jwsongs.PREFS");
                 startActivityForResult(intent, R.id.action_settings);
                 return true;
-
+            case R.id.about:
+                Intent i = new Intent(this, AboutActivity.class);
+                startActivity(i);
+            break;
+            /*
             case R.id.rateApp:
                 final String appPackageName = getPackageName();
                 try {
@@ -107,6 +111,7 @@ public class MainActivity extends Activity {
                     startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://play.google.com/store/apps/details?id=" + appPackageName)));
                 }
             break;
+            */
             //home button
             case android.R.id.home:
                 webView.loadUrl(appUrl);

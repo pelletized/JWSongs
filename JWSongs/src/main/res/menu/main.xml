@@ -11,8 +11,8 @@
         android:title="@string/action_settings"
         android:orderInCategory="100"
         android:showAsAction="never" />
-    <item android:id="@+id/rateApp"
-        android:title="Rate this app"
+    <item android:id="@+id/about"
+        android:title="About"
         android:orderInCategory="200"
         android:showAsAction="never" />
 </menu>
