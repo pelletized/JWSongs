@@ -40,9 +40,7 @@ public class AboutActivity extends Activity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
         if (id == android.R.id.home) {
-            //super.onBackPressed(); //go back one level on pushing home button
-            startActivity(new Intent(this, MainActivity.class)); //or start new main activity?
-
+            finish(); //end activity and go back to main
             return true;
         }
         return super.onOptionsItemSelected(item);
