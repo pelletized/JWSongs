@@ -2,20 +2,94 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
+    android:layout_margin="@dimen/activity_horizontal_margin"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="is this about?"
-        android:id="@+id/textView"
-        android:layout_gravity="center_horizontal" />
 
-    <ListView
-        android:layout_width="match_parent"
-        android:layout_height="fill_parent"
-        android:id="@+id/aboutList" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Build Version"
+        android:id="@+id/buildVersion"
+        />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        android:background="?android:attr/listDivider"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Email Developer"
+        android:id="@+id/emailDev"
+        android:onClick="onClickEmail"
+        android:clickable="true"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Send any questions, comments, concerns etc."
+        android:id="@+id/emailDevSubhead"
+        android:onClick="onClickEmail"
+        android:clickable="true"
+        />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        android:background="?android:attr/listDivider"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Rate this app"
+        android:id="@+id/rateApp"
+        android:onClick="onClickRate"
+        android:clickable="true"
+        />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        android:background="?android:attr/listDivider"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Share"
+        android:id="@+id/shareText"
+        android:onClick="onClickShare"
+        android:clickable="true"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Tell your friends"
+        android:id="@+id/emailDevSubhead"
+        android:onClick="onClickShare"
+        android:clickable="true"
+        />
+
+
+
 
 
 </LinearLayout>

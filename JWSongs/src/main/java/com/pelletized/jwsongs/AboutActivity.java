@@ -3,7 +3,11 @@ package com.pelletized.jwsongs;
 import android.app.Activity;
 import android.app.ActionBar;
 import android.app.Fragment;
+import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -11,6 +15,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
+import android.widget.TextView;
 
 public class AboutActivity extends Activity {
 
@@ -22,6 +27,21 @@ public class AboutActivity extends Activity {
         getActionBar().setHomeButtonEnabled(true);
         getActionBar().setDisplayHomeAsUpEnabled(true);
 
+        Context context = getApplicationContext(); // or activity.getApplicationContext()
+        PackageManager packageManager = context.getPackageManager();
+        String packageName = context.getPackageName();
+
+        String myVersionName = "not available"; // initialize String
+
+        try {
+            myVersionName = packageManager.getPackageInfo(packageName, 0).versionName;
+        } catch (PackageManager.NameNotFoundException e) {
+            e.printStackTrace();
+        }
+
+
+        TextView buildVersion = (TextView) findViewById(R.id.buildVersion);
+        buildVersion.setText("Build version: " + myVersionName);
     }
 
 /*
@@ -44,6 +64,31 @@ public class AboutActivity extends Activity {
             return true;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    public void onClickEmail(View v) {
+        Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts("mailto","ed@pelletized.com", null));
+        intent.putExtra(Intent.EXTRA_SUBJECT, "About JW Songs");
+        //startActivity(intent);
+        startActivity(Intent.createChooser(intent, "Send email..."));
+    }
+
+    public void onClickRate(View v) {
+        final String appPackageName = getPackageName();
+        try {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
+        } catch (android.content.ActivityNotFoundException anfe) {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://play.google.com/store/apps/details?id=" + appPackageName)));
+        }
+    }
+
+    public void onClickShare(View v) {
+        final String appPackageName = getPackageName();
+        Intent intent = new Intent(Intent.ACTION_SEND);
+        intent.setType("text/plain");
+        intent.putExtra(Intent.EXTRA_SUBJECT, "JW Songs");
+        intent.putExtra(Intent.EXTRA_TEXT, "Check out this app JW Songs http://play.google.com/store/apps/details?id=" + appPackageName);
+        startActivity(Intent.createChooser(intent, "Share..."));
     }
 
 

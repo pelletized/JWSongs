@@ -99,8 +99,9 @@ public class MainActivity extends Activity {
                 startActivityForResult(intent, R.id.action_settings);
                 return true;
             case R.id.about:
-                Intent i = new Intent(this, AboutActivity.class);
-                startActivity(i);
+                //Intent i = new Intent(this, AboutActivity.class);
+                //startActivity(i);
+                startActivity(new Intent(this, AboutActivity.class));
             break;
             /*
             case R.id.rateApp:

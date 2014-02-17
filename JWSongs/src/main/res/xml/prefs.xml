@@ -13,6 +13,6 @@
         android:title="Screen Sleep"
         android:key="sleepPrefs"
         android:summaryOn="Keep screen active while using app"
-        android:summaryOff="Using phone defaults for screen"
+        android:summaryOff="Use phone defaults for screen"
         />
 </PreferenceScreen>

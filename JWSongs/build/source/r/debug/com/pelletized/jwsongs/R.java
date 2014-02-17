@@ -22,11 +22,14 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int about=0x7f0a0004;
-        public static final int aboutList=0x7f0a0001;
-        public static final int action_settings=0x7f0a0003;
-        public static final int textView=0x7f0a0000;
-        public static final int webView=0x7f0a0002;
+        public static final int about=0x7f0a0007;
+        public static final int action_settings=0x7f0a0006;
+        public static final int buildVersion=0x7f0a0000;
+        public static final int emailDev=0x7f0a0001;
+        public static final int emailDevSubhead=0x7f0a0002;
+        public static final int rateApp=0x7f0a0003;
+        public static final int shareText=0x7f0a0004;
+        public static final int webView=0x7f0a0005;
     }
     public static final class layout {
         public static final int activity_about=0x7f030000;
