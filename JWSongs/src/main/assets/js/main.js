@@ -1,88 +1,110 @@
-		function createList(){
-		  var toc = document.getElementById("toc");
-		  var tocButton = "";
-		  var innerHTML = "";
-		  toc.innerHTML = "";
-		  var max = 135;
-		  var i = 1;
-		  for(i; i <= max; i++){						
-			tocButton = "<li id='toc" + i + "'>" + i + "</li>";			
+window.onload = chooseLanguage;
 
-			innerHTML +=  tocButton;
-		  }
-		  toc.innerHTML = innerHTML;
-			//console.log(tocButton);
-			clicks(max);
-		};
-		
-		function clicks(max) {
-			var i = 1;
-			for(i; i <= max; i++) {					
-				var button = document.getElementById("toc" + i);				
-				
-				button.addEventListener("click", function() {
-					var buttonText = this.innerHTML;		
-					//console.log(buttonText);
-					var toc = document.getElementById("toc");
-					toc.style.display = "none";
-					
-					buildSong(buttonText);								
-					window.scrollTo(0, 0);					
-									
-				}, false);
+function chooseLanguage(language) {
+    var body = document.getElementsByTagName("body")[0];
+    var languageFile = "songdata.js";
+    var languageScriptUrl = '<script type="text/javascript" src="' + languageFile + '"></scr' + 'ipt>';
 
-			}
-		}
+    //TODO set up language prefs
+    if (Android.language == "es") {
+        //load spanish
+        var languageFile = "songdata-es.js";
+    } else {
+        //load english
+        var languageFile = "songdata.js";
+    }
 
-		function buildSong(buttonText) {
-			//console.log("button " + buttonText);
-		
-			var songContent, songNumber, songTitle, scripture, verse1, chorus, footer;
+    languageScriptUrl = document.createTextNode(languageScriptUrl);
+    languageScriptUrl = document.createNode(languageScriptUrl);
+    body.appendChild(languageScriptUrl);
 
-			buttonText = buttonText - 1; // added for demo purposes, THIS NEEDS TO BE FIXED
+}
 
-			songNumber = songdata[buttonText].number;
-			songTitle = songdata[buttonText].title;
-			verse1 = songdata[buttonText].verse[0]; //only show first verse, then chorus, then other verses
-			verseOthers = songdata[buttonText].verse.slice(1); //get all other verses
-			//console.log(verseOthers);
+function createList(){
+  var toc = document.getElementById("toc");
+  var tocButton = "";
+  var innerHTML = "";
+  toc.innerHTML = "";
+  var max = 135;
+  var i = 1;
+  for(i; i <= max; i++){
+    tocButton = "<li id='toc" + i + "'>" + i + "</li>";
 
-			chorus = songdata[buttonText].chorus;
+    innerHTML +=  tocButton;
+  }
+  toc.innerHTML = innerHTML;
+    //console.log(tocButton);
+    clicks(max);
+};
 
-			scripture = songdata[buttonText].scripture;
-			footer = songdata[buttonText].footer;
+function clicks(max) {
+    var i = 1;
+    for(i; i <= max; i++) {
+        var button = document.getElementById("toc" + i);
 
-			songContent = '<div id="song' + songNumber + '" class="song">\n';
-			songContent += '<h1><span class="song-number">' + songNumber + '</span> ' + songTitle + '</h1>\n';
-			songContent += '<p class="verse">' + verse1 + '</p>\n';
-			
-			//chorus
-			if (chorus) {
-				songContent += '<p class="chorus">CHORUS:<br />' + chorus + '</p>\n';
-			}
-			if (verseOthers) {
-				if (verseOthers[0]) {
-					songContent += '<p class="verse">' + verseOthers[0] + '</p>\n';
-				}
-				if (verseOthers[1]) {
-					songContent += '<p class="verse">' + verseOthers[1] + '</p>\n';
-				}
-			}			
+        button.addEventListener("click", function() {
+            var buttonText = this.innerHTML;
+            //console.log(buttonText);
+            var toc = document.getElementById("toc");
+            toc.style.display = "none";
 
-			songContent += '<p class="song-footer">Taken from: ' + scripture + ' ' + footer + '</p>';
-			songContent += '</div>';
+            buildSong(buttonText);
+            window.scrollTo(0, 0);
 
-			document.getElementById("result").innerHTML += songContent;
+        }, false);
 
-		}
-		
-		function homeButton() {
-			var toc = document.getElementById("toc");
-			var results = document.getElementById("results");
-			toc.style.display = "block";			
-		}
+    }
+}
+
+function buildSong(buttonText) {
+    //console.log("button " + buttonText);
+
+    var songContent, songNumber, songTitle, scripture, verse1, chorus, footer;
+
+    buttonText = buttonText - 1; // added for demo purposes, THIS NEEDS TO BE FIXED
+
+    songNumber = songdata[buttonText].number;
+    songTitle = songdata[buttonText].title;
+    verse1 = songdata[buttonText].verse[0]; //only show first verse, then chorus, then other verses
+    verseOthers = songdata[buttonText].verse.slice(1); //get all other verses
+    //console.log(verseOthers);
+
+    chorus = songdata[buttonText].chorus;
+
+    scripture = songdata[buttonText].scripture;
+    footer = songdata[buttonText].footer;
+
+    songContent = '<div id="song' + songNumber + '" class="song">\n';
+    songContent += '<h1><span class="song-number">' + songNumber + '</span> ' + songTitle + '</h1>\n';
+    songContent += '<p class="verse">' + verse1 + '</p>\n';
+
+    //chorus
+    if (chorus) {
+        songContent += '<p class="chorus">CHORUS:<br />' + chorus + '</p>\n';
+    }
+    if (verseOthers) {
+        if (verseOthers[0]) {
+            songContent += '<p class="verse">' + verseOthers[0] + '</p>\n';
+        }
+        if (verseOthers[1]) {
+            songContent += '<p class="verse">' + verseOthers[1] + '</p>\n';
+        }
+    }
+
+    songContent += '<p class="song-footer">Taken from: ' + scripture + ' ' + footer + '</p>';
+    songContent += '</div>';
+
+    document.getElementById("result").innerHTML += songContent;
+
+}
+
+function homeButton() {
+    var toc = document.getElementById("toc");
+    var results = document.getElementById("results");
+    toc.style.display = "block";
+}
 
 
-		createList();
+createList();
 
 

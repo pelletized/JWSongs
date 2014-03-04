@@ -60,6 +60,7 @@ public class MainActivity extends Activity {
         webSettings.setDefaultTextEncodingName("utf-8");
         //appUrl = "file:///android_asset/index.html";
         webView.loadUrl(appUrl);
+        webView.addJavascriptInterface(new WebAppInterface(this), "Android");
     }
 
     private boolean getScreenPrefs() {
@@ -103,16 +104,6 @@ public class MainActivity extends Activity {
                 //startActivity(i);
                 startActivity(new Intent(this, AboutActivity.class));
             break;
-            /*
-            case R.id.rateApp:
-                final String appPackageName = getPackageName();
-                try {
-                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
-                } catch (android.content.ActivityNotFoundException anfe) {
-                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://play.google.com/store/apps/details?id=" + appPackageName)));
-                }
-            break;
-            */
             //home button
             case android.R.id.home:
                 webView.loadUrl(appUrl);
@@ -137,7 +128,7 @@ public class MainActivity extends Activity {
     @Override
     public void onBackPressed()
     {
-        if (back_pressed + 1000 > System.currentTimeMillis()) {
+        if (back_pressed + 2000 > System.currentTimeMillis()) {
             super.onBackPressed();
         }
 
