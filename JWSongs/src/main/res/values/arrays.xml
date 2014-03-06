@@ -13,4 +13,14 @@
         <item>22</item>
         <item>26</item>
     </string-array>
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+
+    <string-array name="languageValues">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
 </resources>

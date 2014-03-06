@@ -5,8 +5,7 @@ function chooseLanguage(language) {
     var languageFile = "songdata.js";
     var languageScriptUrl = '<script type="text/javascript" src="' + languageFile + '"></scr' + 'ipt>';
 
-    //TODO set up language prefs
-    if (Android.language == "es") {
+    if (Android.language == "Spanish") {
         //load spanish
         var languageFile = "songdata-es.js";
     } else {

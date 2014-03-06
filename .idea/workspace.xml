@@ -16,11 +16,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f34efc-db0a-4b9a-a7ba-6b8c991f77fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/WebAppInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" afterPath="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/build/source/r/debug/com/pelletized/jwsongs/R.java" afterPath="$PROJECT_DIR$/JWSongs/build/source/r/debug/com/pelletized/jwsongs/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/WebAppInterface.java" afterPath="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/WebAppInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/res/layout/activity_about.xml" afterPath="$PROJECT_DIR$/JWSongs/src/main/res/layout/activity_about.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml" afterPath="$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/assets/index.html" afterPath="$PROJECT_DIR$/JWSongs/src/main/assets/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js" afterPath="$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml" afterPath="$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JWSongs.iws" />
@@ -92,7 +95,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="5" selection-start="211" selection-end="211" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="544">
+            <state line="13" column="9" selection-start="272" selection-end="272" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -101,28 +104,44 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="25" selection-start="2334" selection-end="2334" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2346">
+            <state line="66" column="5" selection-start="1980" selection-end="1980" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="2567">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.523614" vertical-offset="0" max-vertical-offset="1972">
+            <state line="7" column="36" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1955">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebAppInterface.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="prefs.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="41" selection-start="573" selection-end="573" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arrays.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="38" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebAppInterface.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/WebAppInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="41" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="544">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="15" column="32" selection-start="392" selection-end="392" vertical-scroll-proportion="0.45379877" vertical-offset="0" max-vertical-offset="646">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -520,7 +539,6 @@
         <option value="$PROJECT_DIR$/local.properties" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/themes.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/menu/prefs.xml" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml" />
         <option value="$PROJECT_DIR$/JWSongs/build/res/all/debug/menu/main.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/app.css" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/prefsActivity.java" />
@@ -529,19 +547,21 @@
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/menu/main.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/res/layout/activity_about.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/AboutActivity.java" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/WebAppInterface.java" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/res/layout/activity_about.xml" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/index.html" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/WebAppInterface.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="203" />
+    <option name="x" value="282" />
+    <option name="y" value="13" />
     <option name="width" value="1400" />
     <option name="height" value="944" />
   </component>
@@ -571,7 +591,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -861,6 +880,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1161,7 +1181,11 @@
       <created>1393560392175</created>
       <updated>1393560392175</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="building language switcher">
+      <created>1393937130732</created>
+      <updated>1393937130732</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1185,12 +1209,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="203" y="0" width="1400" height="944" extended-state="0" />
+    <frame x="282" y="13" width="1400" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275649" sideWeight="0.49958017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23546945" sideWeight="0.67038214" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275649" sideWeight="0.49925485" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1212,7 +1237,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23546945" sideWeight="0.67038214" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880098" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1246,7 +1270,8 @@
     <MESSAGE value="completed about activity" />
     <MESSAGE value="fixed song 37 (3 verses instead of 2)" />
     <MESSAGE value="fixed song 108" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed song 108" />
+    <MESSAGE value="building language switcher" />
+    <option name="LAST_COMMIT_MESSAGE" value="building language switcher" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1411,11 +1436,6 @@
         <state line="9" column="60" selection-start="450" selection-end="450" vertical-scroll-proportion="0.38345864" vertical-offset="0" max-vertical-offset="399" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/drawable-xxhdpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1433,9 +1453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.06732673" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
+        <state line="2" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.06732673" vertical-offset="0" max-vertical-offset="561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
@@ -1446,11 +1464,6 @@
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="229" selection-end="229" vertical-scroll-proportion="0.2019802" vertical-offset="0" max-vertical-offset="505" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/prefsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.13963039" vertical-offset="0" max-vertical-offset="487" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
@@ -1484,13 +1497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="31" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="7" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
@@ -1519,56 +1525,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1446" column="19" selection-start="96127" selection-end="96127" vertical-scroll-proportion="0.14767933" vertical-offset="24512" max-vertical-offset="30532" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30464" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/xml/prefs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="41" selection-start="573" selection-end="573" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/arrays.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="38" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/layout/activity_about.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="41" selection-start="2793" selection-end="2793" vertical-scroll-proportion="0.44805196" vertical-offset="1170" max-vertical-offset="1700">
+        <state line="16" column="9" selection-start="523" selection-end="523" vertical-scroll-proportion="0.15367965" vertical-offset="201" max-vertical-offset="1700">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js">
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/prefsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1446" column="19" selection-start="96127" selection-end="96127" vertical-scroll-proportion="0.14767933" vertical-offset="24512" max-vertical-offset="30532">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="211" selection-end="211" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="25" selection-start="2334" selection-end="2334" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2346">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/WebAppInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="41" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="544">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30464">
+        <state line="6" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.13963039" vertical-offset="0" max-vertical-offset="487">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.523614" vertical-offset="0" max-vertical-offset="1972">
+        <state line="7" column="36" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="5" selection-start="1980" selection-end="1980" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="2567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="272" selection-end="272" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/WebAppInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="32" selection-start="392" selection-end="392" vertical-scroll-proportion="0.45379877" vertical-offset="0" max-vertical-offset="646">
           <folding />
         </state>
       </provider>

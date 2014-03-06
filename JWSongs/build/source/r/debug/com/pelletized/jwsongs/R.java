@@ -11,6 +11,8 @@ public final class R {
     public static final class array {
         public static final int fontsize=0x7f050000;
         public static final int fontsizeValues=0x7f050001;
+        public static final int language=0x7f050002;
+        public static final int languageValues=0x7f050003;
     }
     public static final class attr {
     }

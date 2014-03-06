@@ -9,16 +9,24 @@ import android.widget.Toast;
  */
 public class WebAppInterface {
     Context mContext;
-
+    String language;
     /** Instantiate the interface and set the context */
     WebAppInterface(Context c) {
         mContext = c;
+        //language = getClass();
     }
 
     /** Show a toast from the web page */
     @JavascriptInterface
+    /*
     public void loadToast(String toast) {
         Toast.makeText(mContext, toast, Toast.LENGTH_SHORT).show();
+    }
+    */
+
+    public void setLanguage(String language) {
+        language = "blah blah blah";
+        //this.language = "blah blah blah";
     }
 
 }

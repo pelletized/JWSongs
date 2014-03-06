@@ -7,7 +7,18 @@
         android:summary="Choose a default font size"
         android:entries="@array/fontsize"
         android:entryValues="@array/fontsizeValues"
+        android:defaultValue="14"
         />
+
+    <ListPreference
+        android:title="Language"
+        android:key="language"
+        android:summary="Choose a default language"
+        android:entries="@array/language"
+        android:entryValues="@array/languageValues"
+        android:defaultValue="English"
+        />
+
     <CheckBoxPreference
         android:defaultValue="false"
         android:title="Screen Sleep"
