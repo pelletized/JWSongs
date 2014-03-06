@@ -17,16 +17,18 @@ public class WebAppInterface {
     }
 
     /** Show a toast from the web page */
-    @JavascriptInterface
+
     /*
     public void loadToast(String toast) {
         Toast.makeText(mContext, toast, Toast.LENGTH_SHORT).show();
     }
     */
 
-    public void setLanguage(String language) {
+    @JavascriptInterface
+    public String setLanguage() {
         language = "blah blah blah";
         //this.language = "blah blah blah";
+        return language;
     }
 
 }
