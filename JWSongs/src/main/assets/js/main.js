@@ -1,22 +1,16 @@
 window.onload = chooseLanguage;
 
-function chooseLanguage(language) {
+function chooseLanguage() {
+    //var languageFile = "js/songdata.js";
+    var languageFile = Android.setLanguage();
+    var scriptUrl = "js/" + languageFile;
     var body = document.getElementsByTagName("body")[0];
-    var languageFile = "songdata.js";
-    var languageScriptUrl = '<script type="text/javascript" src="' + languageFile + '"></scr' + 'ipt>';
+    script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.charset = 'utf-8';
+    script.src = scriptUrl;
 
-    if (Android.language == "Spanish") {
-        //load spanish
-        var languageFile = "songdata-es.js";
-    } else {
-        //load english
-        var languageFile = "songdata.js";
-    }
-
-    languageScriptUrl = document.createTextNode(languageScriptUrl);
-    languageScriptUrl = document.createNode(languageScriptUrl);
-    body.appendChild(languageScriptUrl);
-
+    body.appendChild(script);
 }
 
 function createList(){

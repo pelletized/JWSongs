@@ -10,7 +10,7 @@ var songdata = [
 
 				"3. Greatest of all is your perfect love. None can repay all your gifts from above. Your attributes and your glorious name, Exultingly we will proclaim."
 		],
-		//"chorus" : "this is a chorus",
+
 		"footer" : "(See also Ps. 36:9; 145:6-13; Jas. 1:17.)"
 	},
 	{
@@ -24,7 +24,7 @@ var songdata = [
 
 				"3. We thank you, our God, for the honor to preach About your great name and the truth to teach. We thank you that soon all earth's woes will be past, While your Kingdom blessings forever last."
 		],
-		//"chorus" : "this is a chorus",
+
 		"footer" : "(See also Ps. 50:14; 95:2; 147:7; Col. 3:15.)"
 	},
 	{
@@ -38,7 +38,7 @@ var songdata = [
 
 				"3. Never let resentment lead you; May it never take your hand. Look to God, and he will guide you; He will teach you these commands: Love of God and love of neighbor, Ev'rything that love should be. May we always show to others Godlike love, yes, tenderly."
 		],
-		//"chorus" : "this is a chorus",
+
 		"footer" : "(See also Mark 12:30, 31; 1 Cor. 12:31–13:8; 1 John 3:23.)"
 	},
 	{
@@ -52,7 +52,7 @@ var songdata = [
 
 				"3. In God's remembrance We want our name to be Inscribed in his book For all eternity. On him we can depend, So we his truth defend And keep our good name Down to the end."
 		],
-		//"chorus" : "this is a chorus",
+
 		"footer" : "(See also Gen. 11:4; Prov. 22:1; Mal. 3:16; Rev. 20:15.)"
 	},
 	{
@@ -66,7 +66,7 @@ var songdata = [
 
 				"3. God's truth Christ Jesus taught And tender comfort brought To those who followed as his faithful sheep. May seeds of Kingdom praise Be sown through all our days. Then satisfaction and joy we will reap."
 		],
-		//"chorus" : "this is a chorus",
+
 		"footer" : "(See also Matt. 6:9-11; John 3:16; 6:31-51; Eph. 5:2.)"
 	},
 	{
@@ -80,7 +80,7 @@ var songdata = [
 
 				"3. Wisdom we seek from heaven above. Please grant this gift, and fill our hearts with love. Help us our love and mercy to show, Helping all men our great God to know. Helping all our God to know, May our love and mercy show."
 		],
-		//"chorus" : "this is a chorus",
+
 		"footer" : "(See also Ps. 143:10; John 21:15-17; Jas. 1:5.)"
 	},
 	{
@@ -94,7 +94,7 @@ var songdata = [
 
 				"3. We come before you, Jehovah, To praise your name so great. Disowning self, with humble hearts Our lives we dedicate. You gave your only begotten, Who paid the price so high. No longer as living for ourselves, For you we shall live or die."
 		],
-		//"chorus" : "this is a chorus",
+
 		"footer" : "(See also Matt. 16:24; Mark 8:34; Luke 9:23.)"
 	},
 	{
@@ -106,7 +106,7 @@ var songdata = [
 
 				"2. We're gathered together before you. As sheep of your pasture, we came To give praise for your love that brought Christ from above, To honor your most holy name. We keep this Memorial occasion Fixed firmly in heart and in mind. Thus we'll walk ev'ry day as Christ showed us the way, And then life everlasting we'll find."
 		],
-		//"chorus" : "this is a chorus",
+
 		"footer" : "(See also Luke 22:14-20; 1 Cor. 11:23-26.)"
 	},
 	{
@@ -146,7 +146,7 @@ var songdata = [
 
 				"3. Impart to us your active force, That we may keep a faithful course And bring forth fruitage to your praise And thus make glad your heart always."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Matt. 24:45-47; Luke 11:13; 22:42.)"
 	},
 	{
@@ -174,7 +174,7 @@ var songdata = [
 
 				"3. May your attention cause joy to abound; In all the earth let your worship be found. Crowned with your goodness, your Kingdom appears, Wiping out sickness, death, sorrow, and tears. All that is wicked, your Son will destroy; Blessed creation will cry out for joy. Shouting in triumph, oh, thanks let us sing: \"Praise to Jehovah, our glorious King!\""
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 65:2, 4, 11; Phil. 4:6.)"
 	},
 	{
@@ -202,7 +202,7 @@ var songdata = [
 
 				"3. Your laws are pure, and your commands are true. Day after day, reminders come from you. They make us wise, are better than fine gold. Oh, may we keep them, always to them hold. They make us wise, are better than fine gold. Oh, may we keep them, always to them hold."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 12:6; 89:7; 144:3; Rom. 1:20.)"
 	},
 	{
@@ -272,7 +272,7 @@ var songdata = [
 
 				"3. So, dear Father, bless our meetings; Grant us peace and unity. May our words and may our actions Magnify your Sov'reignty."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 22:22; 34:3; Isa. 50:4.)"
 	},
 	{
@@ -286,7 +286,7 @@ var songdata = [
 
 				"3. The meek will see Jehovah's love When they are judged by him above. His mercy they will really know, Since they, like him, true mercy show. So merciful let's strive to be And cultivate that quality. Our God and Christ have shown the way; May we show mercy ev'ry day."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Luke 6:36; Rom. 12:8; Jas. 2:13.)"
 	},
 	{
@@ -300,7 +300,7 @@ var songdata = [
 
 				"3. How wise and loving my Shepherd! His praises with joy I sing. The cheering news of his tender care To sheeplike ones I will bring. His Word I'll faithfully follow, Walk carefully in his way. My glorious treasure of serving him, I'll gratefully use each day. My glorious treasure of serving him, I'll gratefully use each day."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 28:9; 80:1.)"
 	},
 	{
@@ -328,19 +328,19 @@ var songdata = [
 
 				"3. When wolves and lambs will feed as one, When bears and calves bask in the sun, A mere young boy will lead them all, And they will heed his childish call. When tears belong to yesterday, When fears and pain have passed away, You'll see how God these things supplies, If you keep your eyes on the prize."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Isa. 11:6-9; 35:5-7; John 11:24.)"
 	},
 	{
 		"number" : "25",
 		"title" : "Proof of Discipleship",
-		"scripture" : "( John 13:34, 35)",
+		"scripture" : "(John 13:34, 35)",
 		"verse" : [
 				"1. There is a law we must all obey If we would live the Christian way. This is the kingly law from above; This is how we show Christlike love. Such was the love of our Lord, the Christ; His perfect life he sacrificed. He left a model we follow closely; His disciples, we prove to be. ",
 
 				"2. Genuine love that will never fail Tenderly aids the weak or frail. Love is a debt that we must repay, Serving willingly day by day. No other place could we ever find Friends showing love of this rare kind. These are the bonds that we can be sure of; May we follow the way of love."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Rom. 13:8; 1 Cor. 13:8; Jas. 2:8; 1 John 4:10, 11.)"
 	},
 	{
@@ -354,7 +354,7 @@ var songdata = [
 
 				"3. Oh, walk with God in faithfulness, For then you will attain Contentment true and godliness, Which are the greatest gain. Oh, walk with God; be ever glad His glorious praise to sing. The greatest joy that can be had, His Kingdom work will bring."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Gen. 5:24; 6:9; Phil. 4:8; 1 Tim. 6:6-8.)"
 	},
 	{
@@ -477,7 +477,7 @@ var songdata = [
 
 				"2. One thousand years, from your point of view, Are like a day when they are through. Time now proceeds to your great day; It will arrive without delay. Though all transgression you do resent, Your heart is glad when sinners repent. We look ahead with hope renewed, Praising your name in deep gratitude."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Luke 15:7; 2 Pet. 3:8, 9.)"
 	},
 	{
@@ -530,7 +530,7 @@ var songdata = [
 
 				"3. As a fruit of righteousness, Peace we all must bear, Proof of wisdom from above, Gained through heartfelt prayer. We would recommend our way, Show our peaceful care Till the Kingdom's perfect day Brings peace ev'rywhere."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 46:9; Isa. 2:4; Jas. 3:17, 18.)"
 	},
 	{
@@ -559,7 +559,7 @@ var songdata = [
 
 				"3. Always remember your God in your youth; Grow ever stronger in love of the truth. By your devotion to God you will bring Joy to the heart of Jehovah, our King."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 71:17; Lam. 3:27; Eph. 6:1-3.)"
 	},
 	{
@@ -573,7 +573,7 @@ var songdata = [
 
 				"3. Rather than condemn the weak, We should bear in mind How much we can strengthen them By our being kind. May we be diligent, Give them encouragement; As we lend our kind support, Comfort they will find."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also 2 Cor. 11:29; Isa. 35:3, 4; Gal. 6:2.)"
 	},
 	{
@@ -599,7 +599,7 @@ var songdata = [
 
 				"2. True love for our God and our neighbor Now moves us to speed up our pace. Both harvest and preaching are urgent, For shortly the end we will face. The joy we receive is surpassing; As God's fellow workers, we share. So may we endure in his Kingdom work And know that his blessing is there."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Matt. 24:13; 1 Cor. 3:9; 2 Tim. 4:2.)"
 	},
 	{
@@ -613,7 +613,7 @@ var songdata = [
 
 				"3. Move ahead, move ahead, always follow through, And improve in your skills for there's so much work to do. Let God's spirit keep on motivating you. Find the joy that is divine. Love the people you work hard to find. Keep returning to reach heart and mind. And assist all good progress each day to make, So the light of truth will shine."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Phil. 1:27; 3:16; Heb. 10:39.)"
 	},
 	{
@@ -639,7 +639,7 @@ var songdata = [
 
 				"2. The good news that we now declare was long foreknown. Jehovah wills that in this time it shall be shown. Along with us, his angels take delight to share, To aid us as the Kingdom truth we now declare. We have the duty and the honor in these days To sanctify his name and give him his rightful praise. We're honored as his Witnesses that name to bear With everlasting good news that we now declare."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Mark 4:11; Acts 5:31; 1 Cor. 2:1, 7.)"
 	},
 	{
@@ -653,7 +653,7 @@ var songdata = [
 
 				"3. Help for us God has provided Through his spirit and his written Word, Through the Christian congregation, Through assurance that our prayer is heard. As we're walking with Jehovah, He will help us do what's right, Help us imitate his kindness And walk modestly in his sight."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Gen. 5:24; 6:9; 1 Ki. 2:3, 4.)"
 	},
 	{
@@ -667,7 +667,7 @@ var songdata = [
 
 				"3. Protection God will give you From snares along your way, And never will you falter In fear or in dismay. The maned young lion, you'll not dread; Upon the cobra you will tread. Jehovah is our refuge, Ever guarding us on our way."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 97:10; 121:3, 5; Isa. 52:12.)"
 	},
 	{
@@ -681,13 +681,13 @@ var songdata = [
 
 				"3. Our love for our God impels us to serve him All our days, All our days. We gladly obey with heartfelt devotion, Singing his praise, Singing his praise. So may we proclaim his name to each hearer; May they come to see the truth ever clearer. May his service grow still dearer and dearer, For that is love. Yes, that is true love."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Rom. 12:10; Eph. 4:3; 2 Pet. 1:7.)"
 	},
 	{
 		"number" : "51",
 		"title" : "We Cleave to Jehovah",
-		"scripture" : "( Joshua 23:8)",
+		"scripture" : "(Joshua 23:8)",
 		"verse" : [
 				"1. Our Sov'reign, Jehovah, has shown himself deserving. In all of his dealings, his justice is unswerving. No word he has spoken will prove to be in vain. We cleave to Jehovah and close to him remain; Embracing his rule is the way of lasting gain. ",
 
@@ -695,7 +695,7 @@ var songdata = [
 
 				"3. The heaven of heavens itself cannot contain him. No foe can resist him, no enemy restrain him. All things he has promised, we trust him to fulfill. We cleave to Jehovah; We want to do his will, And may our devotion to him grow deeper still."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Deut. 4:4; 30:20; 2 Ki. 18:6; Ps. 89:14.)"
 	},
 	{
@@ -709,7 +709,7 @@ var songdata = [
 
 				"3. Protect your heart from harmful thoughts; Consider what is true. Allow God's Word to reach your heart, To strengthen and renew. Jehovah loves his loyal ones; On this we can depend. So worship him wholeheartedly Forever as his friend."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 34:1; Phil. 4:8; 1 Pet. 3:4.)"
 	},
 	{
@@ -721,7 +721,7 @@ var songdata = [
 
 				"2. As we pray for oneness of mind And we all take care to be kind, Love will grow and praise will increase, Giving us joy and peace. Peace is so refreshing, Bringing such delight. As we show true brotherly love, God will grant us peace from above. With his help, united we'll be, Serving him endlessly."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Mic. 2:12; Zeph. 3:9; 1 Cor. 1:10.)"
 	},
 	{
@@ -741,7 +741,7 @@ var songdata = [
 	{
 		"number" : "55",
 		"title" : "Life Without End&mdash;At Last!",
-		"scripture" : "( John 3:16)",
+		"scripture" : "(John 3:16)",
 		"verse" : [
 				"1. Can you see with your mind's eye, Peoples dwelling together? Sorrow has passed. Peace at last! Life without tears or pain.",
 
@@ -775,7 +775,7 @@ var songdata = [
 
 				"2. Whatever things are chaste and true, Whatever virtue there may be, Whatever things well-spoken of&mdash; May thoughts of these bring peace to me. How precious are your thoughts, O God! Beyond all counting is their sum. So may I ponder your own words, Absorbed in them may I become."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 49:3; 63:6; 139:17, 23; Phil. 4:7, 8; 1 Tim. 4:15.)"
 	},
 	{
@@ -789,7 +789,7 @@ var songdata = [
 
 				"3. Take my life and bring it, Lord, With your will, in full accord. Take myself, may all I do Be well-pleasing, Lord, to you."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 40:8; John 8:29; 2 Cor. 10:5.)"
 	},
 	{
@@ -825,7 +825,7 @@ var songdata = [
 
 				"2. Help me to examine, and help me to see Just what sort of person you desire me to be. Those loyal to you, you will loyally treasure; May I be among those who bring your heart pleasure.",
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 18:25; 116:12; 119:37; Prov. 11:20.)"
 	},
 	{
@@ -839,7 +839,7 @@ var songdata = [
 
 				"3. To whom do I belong? Jehovah I will obey. My Father in heaven I shall serve; I'll pay my vows without reserve. He bought me at great cost; Devoted to him I'll stay. The death of his Son my ransom has won; His name I'll honor each day."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Josh. 24:15; Ps. 116:14, 18; 2 Tim. 2:19.)"
 	},
 	{
@@ -853,7 +853,7 @@ var songdata = [
 
 				"3. Ever loyal to their guidance When our brothers take the lead. When they give us clear direction, May our mind and heart give heed. Then the blessing from Jehovah Will be ours to make us strong. When we're loyal, ever faithful, To Jehovah we'll belong."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 149:1; 1 Tim. 2:8; Heb. 13:17.)"
 	},
 	{
@@ -907,7 +907,7 @@ var songdata = [
 
 				"3. Pray to Jehovah when troubles appear. He is our Father and ever so near. Seek his protection, and look for his aid; Always be trusting and never afraid. Pray to Jehovah each day."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Matt. 6:9-13; 26:41; Luke 18:1.)"
 	},
 	{
@@ -945,7 +945,7 @@ var songdata = [
 
 				"3. If we take care to do what's important, Our faith will make us secure. We'll know the peace beyond human thinking And keep our hope ever sure. True friends we'll find; True love we'll know. This love will grow. Oh, what rich blessings it brings when we learn, When we discern, And when we do the important things!"
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 97:10; Matt. 22:37; John 21:15-17; Acts 10:42.)"
 	},
 	{
@@ -959,7 +959,7 @@ var songdata = [
 
 				"3. When we are weary, weak, or discouraged, Your active force will our hearts renew. Give us the strength to mount up like eagles; May we receive holy spirit from you."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 51:11; John 14:26; Acts 9:31.)"
 	},
 	{
@@ -971,7 +971,7 @@ var songdata = [
 
 				"2. It's not enough to use just the mind, As we keep teaching the sheep we find. We need to love them in word and deed, While helping them on His Word to feed. Love helps us patiently suffer wrong, Bears heavy loads when it's really strong. And so remember in each travail, Love bears all things; it will never fail."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also John 21:17; 1 Cor. 13:13; Gal. 6:2.)"
 	},
 	{
@@ -983,7 +983,7 @@ var songdata = [
 
 				"2. When our love is pure and intense, We will be slow to take offense; Reason we have for confidence In all our brothers true. Loyal friendships, we cultivate; Each other we appreciate. Pleasurably we congregate, Gaining our strength anew. Day by day we all transgress; Thoughtless words can often cause distress. So we must show tenderness To those whom our God does love. True companions we'll ever be, Strengthening bonds with constancy. Let love be your identity. Magnifying God above, Imitate Jehovah's love."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also 1 Pet. 2:17; 3:8; 4:8; 1 John 3:11.)"
 	},
 	{
@@ -1023,7 +1023,7 @@ var songdata = [
 
 				"3. Your spirit aids our sight As your Word gives needed light. We are guided and protected In a world as dark as night. May peace just like the dew Calm our thoughts, refresh us too, That our hearts and mental powers Might be safe by means of you."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 4:8; Phil. 4:6, 7; 1 Thess. 5:23.)"
 	},
 	{
@@ -1037,7 +1037,7 @@ var songdata = [
 
 				"3. Mercy is a virtue That we all should cultivate. It will keep us from resentment, From the bitterness of hate. When we imitate Jehovah, Who is unsurpassed in love, We will truly be forgiving; We will be like God above."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Matt. 6:12; Eph. 4:32; Col. 3:13.)"
 	},
 	{
@@ -1049,7 +1049,7 @@ var songdata = [
 
 				"2. Long-suffering is needed To keep us on our godly path. It lets our heart be tranquil, Protects us from unrighteous wrath. It finds the good in others, Always hoping for the best. It lets us keep our balance In times when we're distressed. Along with other virtues That holy spirit can bestow, Long-suffering will help us To imitate the God we know."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ex. 34:14; Isa. 40:28; 1 Cor. 13:4, 7; 1 Tim. 2:4.)"
 	},
 	{
@@ -1063,7 +1063,7 @@ var songdata = [
 
 				"3. We see in our God and Jesus our Lord, The persons we should be. In all that we do, we want to reflect Their kindness and true empathy."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Mic. 6:8; Matt. 11:28-30; Col. 3:12; 1 Pet. 2:3.)"
 	},
 	{
@@ -1077,7 +1077,7 @@ var songdata = [
 
 				"3. Those to whom we are related In the faith&mdash;our brotherhood&mdash; We will show them special favor, But to all may we do good. As we share the Kingdom good news And our hope with all we meet, May we always be impartial; May our goodness be complete."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 103:10; Mark 10:18; Gal. 5:22; Eph. 5:9.)"
 	},
 	{
@@ -1103,7 +1103,7 @@ var songdata = [
 
 				"3. 'All you are just brothers,' our Lord Jesus said. So never seek greatness; serve others instead. The mild and the meek to our God have great worth; He promises they will inherit the earth."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Matt. 5:5; 23:8; Prov. 3:34; Rom. 12:16.)"
 	},
 	{
@@ -1117,7 +1117,7 @@ var songdata = [
 
 				"3. Each word and action reflects on God's name, So we must endeavor to keep free from blame. In all we do, we make this our goal: Always maintaining our self-control."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also 1 Cor. 9:25; Gal. 5:23; 2 Pet. 1:6.)"
 	},
 	{
@@ -1129,7 +1129,7 @@ var songdata = [
 
 				"2. Oh, what help Jehovah God gave When he sent the faithful wise slave, With whom we serve with joy, Our powers employ, That meek ones we might help to save. Those in need can easily tell When we love them ever so well. So if widows and orphans should ask you, Then readily say: \"I want to.\""
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also John 18:37; Eph. 3:19; Phil. 2:7.)"
 	},
 	{
@@ -1155,7 +1155,7 @@ var songdata = [
 
 				"3. Mothers and daughters, sisters, wives, and widows, Willingly laboring, glad to do your part. Modest your bearing, submissive is your heart, Having God's approval, may you never fear. Christian sisters, may Jehovah keep you Firm in your conviction, your prize is drawing near."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Phil. 4:3; 1 Tim. 2:9, 10; 1 Pet. 3:4, 5.)"
 	},
 	{
@@ -1165,7 +1165,7 @@ var songdata = [
 		"verse" : [
 				"1. This is at last bone of my bone, Flesh of my flesh; now I'm not alone. God has provided a partner, Someone to call my own. Now we are one; now we can be All that Jehovah made us to be. As man and woman together, We are a family. Ev'ry day we'll serve our God above. As he shows the way, Unfailing love we'll display. As we have vowed, so may it be. Seasons of joy, may we come to see. Oh, may we honor Jehovah, And may you always be my love."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Gen. 29:18; Eccl. 4:9, 10; 1 Cor. 13:8.)"
 	},
 	{
@@ -1241,13 +1241,13 @@ var songdata = [
 
 				"3. Light from fine works gleaming, Brightens up this world, To our words adds luster, Like a priceless pearl. May our light keep shining As we do what's right, Then our works will always be Pleasing in God's sight."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 119:130; Matt. 5:14, 15, 45; Col. 4:6.)"
 	},
 	{
 		"number" : "94",
 		"title" : "Content With God's Good Gifts",
-		"scripture" : "( James 1:17)",
+		"scripture" : "(James 1:17)",
 		"verse" : [
 				"1. All perfect presents, each good gift, The things we're fondest of, The truly worthy things in life, Come down from God above. With him there is no wavering, No change, however slight. Jehovah is our Grand Provider, The Source of life and light.",
 
@@ -1255,7 +1255,7 @@ var songdata = [
 
 				"3. The lofty things in human eyes, To God are merely vain. Let's use the days we're granted now For things of lasting gain. The riches that we store with God Are safe, though we may die. We prize the gift of true contentment And keep a simple eye."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Jer. 45:5; Matt. 6:25-34; 1 Tim. 6:8; Heb. 13:5.)"
 	},
 	{
@@ -1279,7 +1279,7 @@ var songdata = [
 
 				"2. All those who receive you receive him as well. Their heart God will open up wide. Their right disposition for unending life Will impel them to serve at your side. And never be anxious about what to say, For Jehovah will help you to speak. Your answer when gracious and seasoned with salt Will appeal to the humble and meek."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Acts 13:48; 16:14; Col. 4:6.)"
 	},
 	{
@@ -1307,7 +1307,7 @@ var songdata = [
 
 				"3. How much of your work is successful May often depend much on you. With patience and love for your neighbors, Their hearts may be opened anew. By being alert you'll ward off their fears, With measures some gentle some bold. And thus with rejoicing you can hope to reap At least thirty if not hundredfold."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Matt. 13:19-23; 22:37.)"
 	},
 	{
@@ -1325,7 +1325,7 @@ var songdata = [
 	{
 		"number" : "100",
 		"title" : "We Are Jehovah's Army!",
-		"scripture" : "( Joel 2:7)",
+		"scripture" : "(Joel 2:7)",
 		"verse" : [
 				"1. We are Jehovah's army, Freed from Satan's chains, Preaching about God's Kingdom, In which Jesus now reigns. As we press on faithfully, Each a volunteer, We remain determined With no hint of fear.",
 
@@ -1343,7 +1343,7 @@ var songdata = [
 		"verse" : [
 				"1. There was a time we did not know The way a Christian ought to go. Then Jehovah sent the light, His Kingdom truth so clear and bright. Our Father's will we then could see To serve the grand Theocracy, To declare Jehovah's fame, And help to glorify his holy name. We witness now to all we meet, From door to door and on the street. We take the time to help them see; We teach the truth that sets men free. And as we strive in ev'ry land Jehovah's worship to expand, May we serve our God as one Until Jehovah says the work is done."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Josh. 9:9; Isa. 24:15; John 8:12, 32.)"
 	},
 	{
@@ -1371,7 +1371,7 @@ var songdata = [
 
 				"3. So let us go from door to door To spread the Kingdom news. And whether it's embraced or not, We'll let the people choose. At least we'll name Jehovah's name, His glorious truth declare. And as we go from door to door, We'll find his sheep are there."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Acts 2:21; Rom. 10:14.)"
 	},
 	{
@@ -1385,7 +1385,7 @@ var songdata = [
 
 				"3. Praise Jah with me. Our God is just; He brings all comfort, in him we can trust. Wrongs he will right; Hearts he will heal. Rich Kingdom blessings all mankind will feel. Come let us praise him with joy and with zeal!"
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 94:18, 19; 145:21; 147:1; 150:2.)"
 	},
 	{
@@ -1399,7 +1399,7 @@ var songdata = [
 
 				"3. The fear of God is pure and stands forever. The worth of his commands exceeds the finest gold. His orders lead and preserve all his own. His honor, fame, and holy name, We loyally uphold."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 111:9; 145:5; Rev. 4:11.)"
 	},
 	{
@@ -1413,7 +1413,7 @@ var songdata = [
 
 				"3. Rolling our cares on you, Baring our hearts in prayer, Drawing us closer, bonding in love, Feeling your daily care, We yearn to be your friend. Long may our friendship grow. No greater Friend could we ever gain, No greater Friend we'll know."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 139:1; 1 Pet. 5:6, 7.)"
 	},
 	{
@@ -1425,7 +1425,7 @@ var songdata = [
 
 				"2. Jesus gave the command To go forth and preach the word. Good news about the Kingdom Reaches all men today. Christ now rules from on high, Urging all to take his side. Meek ones who hear his voice Let God's Word show them the way. What a joy to behold How a great crowd continues to grow! Yes, we all have a share, Helping others Jehovah to know. Let us lift up the voice, Calling out for all to hear, 'Come to Jehovah's mountain, Here forever to stay.'"
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 43:3; 99:9; Isa. 60:22; Acts 16:5.)"
 	},
 	{
@@ -1459,13 +1459,13 @@ var songdata = [
 		"verse" : [
 				"1. O God, you know my rest and waking, When I lie down and when I rise anew. You search my thought, my inmost inclination, The words I speak, the ways I walk, you know them too. You saw when I was made in secret, My very bones not hidden from your sight. You saw my form; its parts were down in writing. I praise the wonder of your ways, extol your might. Your knowledge, God, is wondrous, fear-inspiring; Of this my soul is very well aware. If I should fear that darkness might enfold me, Your spirit, God, would find me, even there. Where could I hide from you, Jehovah, Or be concealed, be hidden from your face? Not in the heights nor in the depth of Sheol, Not in the dark nor in the sea, there is no place."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 66:3; 94:19; Jer. 17:10.)"
 	},
 	{
 		"number" : "111",
 		"title" : "He Will Call",
-		"scripture" : "( Job 14:13-15)",
+		"scripture" : "(Job 14:13-15)",
 		"verse" : [
 				"1. Life, like a mist, appears for just a day, Then disappears tomorrow. All that we are can quickly fade away, Replaced with tears and sorrow. If a man should die, can he live again? Hear the promise God has made:",
 
@@ -1485,7 +1485,7 @@ var songdata = [
 
 				"3. Let men and angels join in your praises; Let your name be sanctified, Never more to be denied. Soon may your Kingdom, ruling in heaven, Make your will be done earth wide."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Deut. 32:4; Prov. 16:12; Matt. 6:10; Rev. 4:11.)"
 	},
 	{
@@ -1499,7 +1499,7 @@ var songdata = [
 
 				"3. Your word has such power to reach deep inside, Yes, even the spirit and soul to divide. It searches our intentions and motives of our hearts. It offers correction and wisdom imparts."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 119:16, 162; 2 Tim. 3:16; Jas. 5:17; 2 Pet. 1:21.)"
 	},
 	{
@@ -1513,13 +1513,13 @@ var songdata = [
 
 				"3. Today we live in times of joy unbounded. God's Kingdom now is here with Christ as Lord. This is the day Jehovah grants salvation To all who come to him in full accord. Within his book are found these cheerful tidings; A sacred banquet feast on which to feed. It offers peace beyond all human thinking; This Living Treasure beckons all to read."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also 2 Tim. 3:16; 2 Pet. 1:21.)"
 	},
 	{
 		"number" : "115",
 		"title" : "Making Our Way Successful",
-		"scripture" : "( Joshua 1:8)",
+		"scripture" : "(Joshua 1:8)",
 		"verse" : [
 				"1. We delight in Jehovah's Word. May we read it each day. Sound each thought in an undertone; Meditate and obey. May it guide ev'ry step we take, Ev'ry thought we express.",
 
@@ -1553,7 +1553,7 @@ var songdata = [
 
 				"3. Lips that sing praise, how encouraging to hear them! Tongues of the taught ones, how sweet is their sound! Oh, may we always meet with God's people! Oh, may we always among them be found!"
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Heb. 10:24, 25; Rev. 22:17.)"
 	},
 	{
@@ -1567,7 +1567,7 @@ var songdata = [
 
 				"3. God's invitation reaches all mankind, That all sincere ones the truth may find. God by his Son has drawn us to His side. So welcome one another with hearts opened wide."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also John 6:44; Phil. 2:29; Rev. 22:17.)"
 	},
 	{
@@ -1579,7 +1579,7 @@ var songdata = [
 
 				"2. Jehovah is keenly aware of our needs; His counsel by us should be heard. To buy out the time for occasions to meet Shows wisdom and trust in his Word. By wholesome instruction from God-fearing men, We learn how our faith can be shown. With loving support from our fam'ly of faith, We know that we're never alone. So as we look forward to much better times, We'll meet with the ones whom we love. And here at these meetings we'll learn how to live With wisdom that comes from above."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Ps. 37:18; 140:1; Prov. 18:1; Eph. 5:16; Jas. 3:17.)"
 	},
 	{
@@ -1607,7 +1607,7 @@ var songdata = [
 
 				"3. As we with eyes of faith are seeing The nearness of Jehovah's day, We need our gathering together To keep us walking in the way. United with Jehovah's people, We hope to serve eternally. So we encourage one another To hold to our integrity."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Luke 22:32; Acts 14:21, 22; Gal. 6:2; 1 Thess. 5:14.)"
 	},
 	{
@@ -1621,7 +1621,7 @@ var songdata = [
 
 				"3. Myriads on myriads of brothers, God keeps us in his sight, Safe in his earthly courtyards, Serving him day and night. Myriads we are on myriads, With Kingdom news we go, God's fellow workers we have become, Serving him here below."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Isa. 52:7; Matt. 11:29; Rev. 7:15.)"
 	},
 	{
@@ -1647,7 +1647,7 @@ var songdata = [
 
 				"2. We never know the good that may come about When we see those in need and we help them out. Though strangers they may be, in hospitality, We lend a hand to care for their needs. Like Lydia of old, we say: 'Be my guest.' When they come to our home, they find peace and rest. Our Father is aware of all those ev'rywhere, Who imitate his merciful deeds."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Acts 16:14, 15; Rom. 12:13; 1 Tim. 3:2; Heb. 13:2; 1 Pet. 4:9.)"
 	},
 	{
@@ -1743,9 +1743,7 @@ var songdata = [
 		"verse" : [
 				"1. Sing to Jehovah. His great name is highly exalted. His proud Egyptian foes, He has cast into the sea. Praise Jah Almighty; Besides him there can be no other. Jehovah is his name; He has gained the victory.",
 
-				"2. See now all nations Opposing the Sov'reign, Jehovah. Though mightier than Pharaoh, They too will suffer shame. Doom now awaits them; They will not survive Armageddon. Soon ev'ryone will know That Jehovah is God's name.",
-
-				"three"
+				"2. See now all nations Opposing the Sov'reign, Jehovah. Though mightier than Pharaoh, They too will suffer shame. Doom now awaits them; They will not survive Armageddon. Soon ev'ryone will know That Jehovah is God's name."
 		],
 		"chorus" : "Jehovah God, Most High over all, The one from time indefinite the same, You soon will cause your enemies to fall And sanctify your holy name.",
 		"footer" : "(See also Ps. 2:2, 9; 92:8; Mal. 3:6; Rev. 16:16.)"
@@ -1785,7 +1783,7 @@ var songdata = [
 
 				"3. All those enduring to the end Are those who will be saved. The book of life will list their names, A record clearly engraved. So let endurance be your aim; Let it have its work complete. Jehovah's favor you will know; With joy you will be replete."
 		],
-		//"chorus" : "",
+
 		"footer" : "(See also Heb. 6:19; Jas. 1:4; 2 Pet. 3:12; Rev. 2:4.)"
 	}
 ];

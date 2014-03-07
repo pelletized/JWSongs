@@ -1,6 +1,9 @@
 package com.pelletized.jwsongs;
 
 import android.content.Context;
+import android.content.SharedPreferences;
+import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.webkit.JavascriptInterface;
 import android.widget.Toast;
 
@@ -9,7 +12,8 @@ import android.widget.Toast;
  */
 public class WebAppInterface {
     Context mContext;
-    String language;
+    //String language;
+
     /** Instantiate the interface and set the context */
     WebAppInterface(Context c) {
         mContext = c;
@@ -26,8 +30,15 @@ public class WebAppInterface {
 
     @JavascriptInterface
     public String setLanguage() {
-        language = "blah blah blah";
-        //this.language = "blah blah blah";
+        SharedPreferences getPrefs = PreferenceManager.getDefaultSharedPreferences(mContext);
+        String language = getPrefs.getString("language","English");
+
+        if (language.equals("English")) {
+            language = "songdata.js";
+        } else if (language.equals("Spanish")) {
+            language = "songdata-es.js";
+        }
+
         return language;
     }
 

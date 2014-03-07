@@ -51,21 +51,6 @@ public class MainActivity extends Activity {
         return fontSizeValue;
     }
 
-    public String getLanguage() {
-        SharedPreferences getPrefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
-        String language = getPrefs.getString("language","English");
-
-        if (language.equals("English")) {
-            //set english js file
-            language = "songdata.js";
-        } else if (language.equals("Spanish")) {
-            //set as spanish
-            language = "songdata-es.js";
-        }
-
-        return language;
-    }
-
     private void getWebView() {
         //the webview
         webView = (WebView) findViewById(R.id.webView);
