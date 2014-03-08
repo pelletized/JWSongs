@@ -26,6 +26,34 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Change log"
+        android:id="@+id/changeLog"
+        android:onClick="onClickChangeLog"
+        android:clickable="true"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="See what is new and updated"
+        android:id="@+id/changeLogSubhead"
+        android:onClick="onClickChangeLog"
+        android:clickable="true"
+        />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        android:background="?android:attr/listDivider"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Email Developer"
         android:id="@+id/emailDev"
         android:onClick="onClickEmail"
@@ -56,6 +84,16 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Rate this app"
         android:id="@+id/rateApp"
+        android:onClick="onClickRate"
+        android:clickable="true"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Share your opinions about this app"
+        android:id="@+id/rateAppSubhead"
         android:onClick="onClickRate"
         android:clickable="true"
         />

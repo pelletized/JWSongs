@@ -1,8 +1,13 @@
 package com.pelletized.jwsongs;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
@@ -15,6 +20,8 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
     WebView webView;
     String appUrl = "file:///android_asset/index.html";
+    private static final String PRIVATE_PREF = "myapp";
+    private static final String VERSION_KEY = "version_number";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,10 +30,51 @@ public class MainActivity extends Activity {
 
         getWebView();
         getScreenPrefs();
+        showChangeLog();
 
         //the home button
         getActionBar().setHomeButtonEnabled(true);
         getActionBar().setDisplayHomeAsUpEnabled(true);
+    }
+
+    public void showChangeLog() {
+        //show changelog once on new update
+        //SharedPreferences getPrefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
+
+        SharedPreferences sharedPref = getSharedPreferences(PRIVATE_PREF, Context.MODE_PRIVATE);
+        int currentVersionNumber = 0;
+
+        int savedVersionNumber = sharedPref.getInt(VERSION_KEY, 0);
+
+        try {
+            PackageInfo pi = getPackageManager().getPackageInfo(getPackageName(), 0);
+            currentVersionNumber = pi.versionCode;
+        } catch (Exception e) {}
+
+        if (currentVersionNumber > savedVersionNumber) {
+            buildChangeLog();
+
+            SharedPreferences.Editor editor   = sharedPref.edit();
+
+            editor.putInt(VERSION_KEY, currentVersionNumber);
+            editor.commit();
+        }
+    }
+
+    public void buildChangeLog() {
+        String changeLogMessage = getString(R.string.change_log_message);
+        AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
+        alertDialogBuilder.setTitle("What's New");
+        alertDialogBuilder
+                .setMessage(changeLogMessage)
+                .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        //close dialog
+                        dialog.cancel();
+                    }
+                });
+        AlertDialog alertDialog = alertDialogBuilder.create();
+        alertDialog.show();
     }
 
     public int getFontSize() {
