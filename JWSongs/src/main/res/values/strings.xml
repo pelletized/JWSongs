@@ -5,9 +5,9 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_about">About JW Songs</string>
     <string name="change_log_message">
-        <b>03/09/14</b>
-        Song lyrics are now in Spanish. Go to Settings and click on Language to switch between English and Spanish.\n
-        Added new About section\n\n
+        <b>1.6.3</b>\n
+        - Song lyrics are now in Spanish. Go to Settings and click on Language to switch between English and Spanish.\n
+        - Added new About section\n\n
 
         <b>02/02/2014</b>\n
         bug fixes\n
