@@ -52,9 +52,18 @@ function clicks(max) {
 function buildSong(buttonText) {
     //console.log("button " + buttonText);
 
-    var songContent, songNumber, songTitle, scripture, verse1, chorus, footer;
+    var songContent, songNumber, songTitle, scripture, verse1, chorus, chorusHeader, songSrc, footer;
 
     buttonText = buttonText - 1; // added for demo purposes, THIS NEEDS TO BE FIXED
+
+    if (Android.setLanguage() == "songdata-es.js") {
+        chorusHeader = 'ESTRIBILLO';
+        songSrc = 'Tomado de';
+
+    } else {
+        chorusHeader = 'CHORUS';
+        songSrc = 'Taken from';
+    }
 
     songNumber = songdata[buttonText].number;
     songTitle = songdata[buttonText].title;
@@ -73,7 +82,7 @@ function buildSong(buttonText) {
 
     //chorus
     if (chorus) {
-        songContent += '<p class="chorus">CHORUS:<br />' + chorus + '</p>\n';
+        songContent += '<p class="chorus">' + chorusHeader + ':<br />' + chorus + '</p>\n';
     }
     if (verseOthers) {
         if (verseOthers[0]) {
@@ -84,7 +93,9 @@ function buildSong(buttonText) {
         }
     }
 
-    songContent += '<p class="song-footer">Taken from: ' + scripture + ' ' + footer + '</p>';
+
+
+    songContent += '<p class="song-footer">' + songSrc + ': ' + scripture + ' ' + footer + '</p>';
     songContent += '</div>';
 
     document.getElementById("result").innerHTML += songContent;
