@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JW Songs</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_about">Acerca de JW Songs</string>
+
+    <string name="title_pref_font_size">tamaño de la fuente</string>
+    <string name="summary_pref_font_size">Elija un tamaño de fuente por defecto</string>
+
+    <string name="title_pref_language">Idioma</string>
+    <string name="summary_pref_language">Elija un idioma predeterminado</string>
+
+    <string name="title_pref_sleep">Screen Sleep</string>
+    <string name="summary_on_pref_sleep">Mantenga la pantalla activa mientras se utiliza la aplicación</string>
+    <string name="summary_off_pref_sleep">Usar los valores predeterminados del teléfono para la pantalla</string>
+
+    <string name="about_build_version">Versión</string>
+    <string name="about_changelog_title">Cambio de registro</string>
+    <string name="about_changelog_summary">Vea lo nuevo y actualizado</string>
+
+    <string name="about_email">Desarrollador email</string>
+    <string name="about_email_summary">Envíe cualquier pregunta o informes de error</string>
+
+    <string name="about_rate">Calificar este programa</string>
+    <string name="about_rate_summary">Comparte tus opiniones acerca de esta aplicación</string>
+
+    <string name="about_share">Compartir</string>
+    <string name="about_share_summary">Dile a tus amigos</string>
+</resources>

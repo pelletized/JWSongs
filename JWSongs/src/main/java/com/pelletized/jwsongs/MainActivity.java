@@ -30,7 +30,9 @@ public class MainActivity extends Activity {
 
         getWebView();
         getScreenPrefs();
-        showChangeLog();
+
+        //comment out for minor releases?
+        //showChangeLog();
 
         //the home button
         getActionBar().setHomeButtonEnabled(true);

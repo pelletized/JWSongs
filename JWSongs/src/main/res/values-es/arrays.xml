@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="fontsize">
-        <item>Small (14)</item>
+        <item>Pequeño (14)</item>
         <item>Regular (18)</item>
-        <item>Large (22)</item>
-        <item>Extra large (26)</item>
+        <item>Grande (22)</item>
+        <item>Extra grande (26)</item>
     </string-array>
 
     <string-array name="fontsizeValues">
@@ -15,12 +15,12 @@
     </string-array>
 
     <string-array name="language">
-        <item>English</item>
-        <item>Spanish</item>
+        <item>Inglés</item>
+        <item>Español</item>
     </string-array>
 
     <string-array name="languageValues">
-        <item>English</item>
-        <item>Spanish</item>
+        <item>Inglés</item>
+        <item>Español</item>
     </string-array>
 </resources>

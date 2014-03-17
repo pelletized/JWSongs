@@ -10,7 +10,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Build Version"
+        android:text="@string/about_build_version"
         android:id="@+id/buildVersion"
         />
 
@@ -26,7 +26,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Change log"
+        android:text="@string/about_changelog_title"
         android:id="@+id/changeLog"
         android:onClick="onClickChangeLog"
         android:clickable="true"
@@ -36,7 +36,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="See what is new and updated"
+        android:text="@string/about_changelog_summary"
         android:id="@+id/changeLogSubhead"
         android:onClick="onClickChangeLog"
         android:clickable="true"
@@ -54,7 +54,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Email Developer"
+        android:text="@string/about_email"
         android:id="@+id/emailDev"
         android:onClick="onClickEmail"
         android:clickable="true"
@@ -64,7 +64,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="Send any questions, comments, concerns etc."
+        android:text="@string/about_email_summary"
         android:id="@+id/emailDevSubhead"
         android:onClick="onClickEmail"
         android:clickable="true"
@@ -82,7 +82,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Rate this app"
+        android:text="@string/about_rate"
         android:id="@+id/rateApp"
         android:onClick="onClickRate"
         android:clickable="true"
@@ -110,7 +110,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Share"
+        android:text="@string/about_share"
         android:id="@+id/shareText"
         android:onClick="onClickShare"
         android:clickable="true"
@@ -120,14 +120,10 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="Tell your friends"
-        android:id="@+id/emailDevSubhead"
+        android:text="@string/about_share_summary"
+        android:id="@+id/shareSubhead"
         android:onClick="onClickShare"
         android:clickable="true"
         />
-
-
-
-
 
 </LinearLayout>

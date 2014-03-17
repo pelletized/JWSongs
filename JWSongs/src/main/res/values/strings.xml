@@ -4,7 +4,34 @@
     <string name="app_name">JW Songs</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_about">About JW Songs</string>
+
+    <string name="title_pref_font_size">Font Size</string>
+    <string name="summary_pref_font_size">Choose a default font size</string>
+
+    <string name="title_pref_language">Language</string>
+    <string name="summary_pref_language">Choose a default language</string>
+
+    <string name="title_pref_sleep">Screen Sleep</string>
+    <string name="summary_on_pref_sleep">Keep screen active while using app</string>
+    <string name="summary_off_pref_sleep">Use phone defaults for screen</string>
+
+    <string name="about_build_version">Build version</string>
+    <string name="about_changelog_title">Change log</string>
+    <string name="about_changelog_summary">See what\'s new and updated</string>
+
+    <string name="about_email">Email developer</string>
+    <string name="about_email_summary">Send any questions or bug reports</string>
+
+    <string name="about_rate">Rate this app</string>
+    <string name="about_rate_summary">Share your opinions about this app</string>
+
+    <string name="about_share">Share</string>
+    <string name="about_share_summary">Tell your friends</string>
+
     <string name="change_log_message">
+        <b>1.6.4</b>\n
+        - minor bug and translation fixes\n\n
+
         <b>1.6.3</b>\n
         - Song lyrics are now in Spanish. Go to Settings and click on Language to switch between English and Spanish.\n
         - Added new About section\n\n
@@ -20,6 +47,4 @@
         - updated navigation! To get back to the list of songs, simply tap the app icon in the top left corner, or tap on the back button at the bottom of your screen. Double tap the back button to exit the app.\n
         - set screen to not turn off while using the app, in settings menu\n
     </string>
-
-
 </resources>
