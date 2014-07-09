@@ -1005,9 +1005,7 @@ var songdata = [
 		"verse" : [
 				"1. Our reasons for joy are abundant, Like riches increasing in worth. Desirable things of all nations Are joining us in all the earth. The joy in our heart is well-founded, With roots reaching deep in God's Word. We daily partake of its teachings; Faith follows the things we have heard. Our causes for joy are deep-seated, Like embers that burn in our hearts. Though troubles and trials beset us, Endurance Jehovah imparts.",
 
-				"2. We gladly behold his productions, The heavens, the sea, and the land. We gaze at the book of creation, Applauding the work of his hand. Triumphantly we now bear witness, Proclaiming the Kingdom of God. The news of its birth and its blessings, We joyously spread all abroad. Eternal rejoicing approaches, Like daylight that follows the night. The promised new earth and new heavens Will bring everlasting delight.",
-
-				"three"
+				"2. We gladly behold his productions, The heavens, the sea, and the land. We gaze at the book of creation, Applauding the work of his hand. Triumphantly we now bear witness, Proclaiming the Kingdom of God. The news of its birth and its blessings, We joyously spread all abroad. Eternal rejoicing approaches, Like daylight that follows the night. The promised new earth and new heavens Will bring everlasting delight."
 		],
 		"chorus" : "Jehovah our God is our joy, The work of his hands our delight. How deep are his thoughts, how great are his works, Abounding in goodness and might!",
 		"footer" : "(See also Deut. 16:15; Isa. 12:6; John 15:11.)"
