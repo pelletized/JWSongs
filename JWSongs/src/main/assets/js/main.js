@@ -13,102 +13,96 @@ function chooseLanguage() {
     body.appendChild(script);
 }
 
-function createList(){
-  var toc = document.getElementById("toc");
-  var tocButton = "";
-  var innerHTML = "";
-  toc.innerHTML = "";
-  var max = 135;
-  var i = 1;
-  for(i; i <= max; i++){
-    tocButton = "<li id='toc" + i + "'>" + i + "</li>";
+var list = new List();
+list.build();
 
-    innerHTML +=  tocButton;
-  }
-  toc.innerHTML = innerHTML;
-    //console.log(tocButton);
-    clicks(max);
-};
+function List() {
+	this.build = function() {
+		var toc = document.getElementById("toc");
+		var tocButton = "";
+		var innerHTML = "";
+		toc.innerHTML = "";
+		var max = 135;
+		songNum = 1; //global
 
-function clicks(max) {
-    var i = 1;
-    for(i; i <= max; i++) {
-        var button = document.getElementById("toc" + i);
+		for (var i = 1; i <= max; i++){
+			tocButton = "<li id='toc" + i + "'>" + i + "</li>";
+			innerHTML += tocButton;
+		}
 
-        button.addEventListener("click", function() {
-            var buttonText = this.innerHTML;
-            //console.log(buttonText);
-            var toc = document.getElementById("toc");
-            toc.style.display = "none";
+		toc.innerHTML = innerHTML;
 
-            buildSong(buttonText);
-            window.scrollTo(0, 0);
+		var buttonList = document.getElementById('toc');
+		var buttons = buttonList.getElementsByTagName('li');
 
-        }, false);
+		for (var i = 0; i < max; i++) {
+			var button = buttons[i];
+			button.onclick = clickButton(i); //call clickButton
+		}
 
-    }
+		function clickButton(n) {
+			return function() {
+				songNum = n;
+				document.getElementById("toc").style.display = "none";
+				var song = new Song(songNum);
+				song.build();
+				scrollTo(0,0);
+			}
+		}
+	}
 }
 
-function buildSong(buttonText) {
-    //console.log("button " + buttonText);
+function Song(songNumber) {
+	this.number = songNumber + 1;
+	this.title = songdata[songNumber].title;
+	this.verse1 = songdata[songNumber].verse[0];
+	this.verse2 = songdata[songNumber].verse[1];
+	this.verse3 = songdata[songNumber].verse[2];
+	this.chorus = songdata[songNumber].chorus;
+	this.scripture = songdata[songNumber].scripture;
+	this.piano = songdata[songNumber].piano;
+	this.footer = songdata[songNumber].footer;
 
-    var songContent, songNumber, songTitle, scripture, verse1, chorus, chorusHeader, songSrc, footer;
+	this.songFile = 001;
+	console.log(this.number);
+	if (this.number < 10) {
+		this.songFile = "00" + this.number;
+		console.log(this.songFile);
+	}
 
-    buttonText = buttonText - 1; // added for demo purposes, THIS NEEDS TO BE FIXED
+	if ((this.number >= 10) && (this.number < 100)) {
+		this.songFile = "0" + this.number;
+		console.log(this.songFile);
+	}
 
-    if (Android.setLanguage() == "songdata-es.js") {
-        chorusHeader = 'ESTRIBILLO';
-        songSrc = 'Tomado de';
+	this.build = function() {
+		var songContent = '<div id="song' + this.number + '" class="song">\n';
+		songContent += '<h1><span class="song-number">' + this.number + '</span> ' + this.title + '</h1>\n';
+		if (this.verse1) {
+			songContent += '<p class="verse">' + this.verse1 + '</p>\n';
+		}
 
-    } else {
-        chorusHeader = 'CHORUS';
-        songSrc = 'Taken from';
-    }
+		if (this.chorus) {
+			songContent += '<p class="chorus">CHORUS:<br />' + this.chorus + '</p>\n';
+		}
 
-    songNumber = songdata[buttonText].number;
-    songTitle = songdata[buttonText].title;
-    verse1 = songdata[buttonText].verse[0]; //only show first verse, then chorus, then other verses
-    verseOthers = songdata[buttonText].verse.slice(1); //get all other verses
-    //console.log(verseOthers);
+		if (this.verse2) {
+			songContent += '<p class="verse">' + this.verse2 + '</p>\n';
+		}
+		if (this.verse3) {
+			songContent += '<p class="verse">' + this.verse3 + '</p>\n';
+		}
 
-    chorus = songdata[buttonText].chorus;
+		songContent += '<p class="song-footer">Taken from: ' + this.scripture + ' ' + this.footer + '</p>';
 
-    scripture = songdata[buttonText].scripture;
-    footer = songdata[buttonText].footer;
+		if (this.piano) {
+			songContent += '<audio controls><source src="http://download.jw.org/files/media_music/' + this.piano + '/iasn_E_' + this.songFile + '.mp3" type="audio/mp3"></audio>';
+		}
 
-    songContent = '<div id="song' + songNumber + '" class="song">\n';
-    songContent += '<h1><span class="song-number">' + songNumber + '</span> ' + songTitle + '</h1>\n';
-    songContent += '<p class="verse">' + verse1 + '</p>\n';
+		songContent += '</div>';
 
-    //chorus
-    if (chorus) {
-        songContent += '<p class="chorus">' + chorusHeader + ':<br />' + chorus + '</p>\n';
-    }
-    if (verseOthers) {
-        if (verseOthers[0]) {
-            songContent += '<p class="verse">' + verseOthers[0] + '</p>\n';
-        }
-        if (verseOthers[1]) {
-            songContent += '<p class="verse">' + verseOthers[1] + '</p>\n';
-        }
-    }
-
-
-
-    songContent += '<p class="song-footer">' + songSrc + ': ' + scripture + ' ' + footer + '</p>';
-    songContent += '</div>';
-
-    document.getElementById("result").innerHTML += songContent;
+		document.getElementById("result").innerHTML += songContent;
+	}
 
 }
-
-function homeButton() {
-    var toc = document.getElementById("toc");
-    var results = document.getElementById("results");
-    toc.style.display = "block";
-}
-
-
-createList();
-
 
