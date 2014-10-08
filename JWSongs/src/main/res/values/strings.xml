@@ -29,6 +29,9 @@
     <string name="about_share_summary">Tell your friends</string>
 
     <string name="change_log_message">
+        <b>1.6.6</b>\n
+        - added 3 new songs in English\n\n
+
         <b>1.6.5</b>\n
         - fixed bug where songs don\'t display if system language is Spanish\n\n
 

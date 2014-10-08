@@ -1783,5 +1783,39 @@ var songdata = [
 		],
 
 		"footer" : "(See also Heb. 6:19; Jas. 1:4; 2 Pet. 3:12; Rev. 2:4.)"
+	},
+	{
+		"number" : "136",
+		"title" : "The Kingdom Is in Place &mdash; Let It Come!",
+		"scripture" : "(Revelation 11:15; 12:10)",
+		"verse" : [
+				"1. Jehovah, you always have been,<br>And always you will be.<br>You've given the throne to your Son;<br>He rules by your decree.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth.",
+
+				"2. The time for the Devil is short;<br>We know what this will mean.<br>Though living in times of distress,<br>We see the things unseen.<br>The Kingdom has been brought to birth;<br>His rulership will fill the earth."
+		],
+		"chorus" : "For now have come to pass<br>Salvation and kingdom and might.<br>The Kingdom is in place.<br>We pray: \"Let it come, Let it come!\"",
+		"footer" : "(See also Dan. 2:34, 35; 2 Cor. 4:18.)"
+	},
+	{
+		"number" : "137",
+		"title" : "Grant Us Boldness",
+		"scripture" : "(Acts 4:29)",
+		"verse" : [
+				"1. As we tell about the Kingdom,<br>As we witness for your name,<br>There are many who oppose us<br>And who try to bring us shame.<br>But instead of fearing men,<br>It's really you we must obey.<br>So we beg you now for your spirit;<br>O Jehovah, hear what we pray.",
+				"2. Even though we may be fearful,<br>You remember we are dust.<br>Your assurance to support us<br>Is a promise we can trust.<br>Give attention to the threats<br>Of those who persecute and blame.<br>May you help us all to continue<br>As we boldly speak in your name."
+		],
+		"chorus" : "Grant us boldness as we witness;<br>Help us overcome our fear.<br>Give us confidence and courage<br>So that all the world may hear.<br>Armageddon draws ever near,<br>But until that great day is here,<br>Grant us boldness as we witness.<br>This is our prayer.",
+		"footer" : "(See also 1 Thess. 2:2; Heb. 10:35.)"
+	},
+	{
+		"number" : "138",
+		"title" : "Jehovah Is Your Name",
+		"scripture" : "(Psalm 83:18)",
+		"verse" : [
+				"1. The living and true God&mdash;<br>The God of all creation<br>In ev'ry generation&mdash;<br>Jehovah is your name.<br>We're honored and we're proud<br>To be your congregation.<br>In ev'ry tribe and nation,<br>Your glory we proclaim.",
+				"2. You cause us to become<br>Whatever you desire,<br>To do as you require&mdash;<br>Jehovah is your name.<br>And Witnesses for you<br>Is what you've kindly named us.<br>We're honored you have claimed us&mdash;<br>A people for your name."
+		],
+		"chorus" : "Jehovah, Jehovah,<br>There is no God like you.<br>There's no other in the heavens<br>Or on the earth below.<br>You alone are God Almighty,<br>And this all men must know.<br>Jehovah, Jehovah,<br>We have no other God but you.",
+		"footer" : "(See also 2 Chron. 6:14; Ps. 72:19; Isa. 42:8.)"
 	}
 ];
