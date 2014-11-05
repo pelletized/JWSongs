@@ -1783,5 +1783,41 @@ var songdata = [
 		],
 
 		"footer" : "(Véanse también Heb. 6:19; Sant. 1:4; 2 Ped. 3:12; Rev. 2:4.)"
+	},	
+	{
+		"number" : "136",
+		"title" : "¡Que venga el Reino establecido por Dios!",
+		"scripture" : "(Revelación 11:15; 12:10)",
+		"verse" : [
+				"1. Jehová para siempre será<br />el Rey universal.<br />A Cristo le quiso entregar<br />un trono celestial.<br />Jesús ocupa su lugar;<br />la Tierra entera regirá.",
+
+				"2. El Diablo jamás triunfará;<br />su tiempo terminó.<br />Sabemos que pronto vendrá<br />el fin de la aflicción.<br />Jesús ocupa su lugar;<br />la Tierra entera regirá."
+		],
+		"chorus" : "¡El Reino ya nació!<br />Tendremos por fin salvación.<br />Rogamos con gran fe:<br />“¡Que venga el Reino de Dios!”.",
+		"footer" : "(Vea también Dan. 2:34, 35; 2 Cor. 4:18.)"
+	},	
+	{
+		"number" : "137",
+		"title" : "Danos fuerzas y valor",
+		"scripture" : "(Hechos 4:29)",
+		"verse" : [
+				"1. Cuando vamos predicando<br />tu mensaje, oh Jehová,<br />hay malvados enemigos<br />que nos quieren silenciar.<br />Pero no nos detendrán,<br />defenderemos tu verdad.<br />Te rogamos que nos ayudes<br />a mostrarte fidelidad.",
+
+				"2. Mira cómo nos atacan,<br />sin piedad ni compasión.<br />No permitas que nos venzan,<br />oye nuestra oración.<br />Padre, danos protección,<br />alivia nuestro corazón.<br />Te rogamos que nos ayudes<br />a cumplir con nuestra misión."
+		],
+		"chorus" : "Oh Jehová, te suplicamos,<br />danos fuerzas y valor.<br />Haz que nada nos detenga,<br />eres nuestro Salvador.<br />En el día de tu furor,<br />el leal saldrá vencedor.<br />Oh Jehová, te suplicamos,<br />escúchanos.",
+		"footer" : "(Vea también 1 Tes. 2:2; Heb. 10:35.)"
+	},	
+	{
+		"number" : "138",
+		"title" : "El gran nombre de Jehová",
+		"scripture" : "(Salmo 83:18)",
+		"verse" : [
+				"1. Altísimo Jehová,<br />tú eres el Dios vivo.<br />Tu nombre, por los siglos,<br />no cambiará jamás.<br />Qué gran felicidad<br />ser parte de tu pueblo<br />y a los cuatro vientos<br />tu gloria proclamar.",
+
+				"2. Por ti podemos ser<br />lo que tú te propones;<br />es gracias a tu nombre,<br />no fallará jamás.<br />Es muestra de bondad<br />que hayas decidido<br />llamarnos tus Testigos.<br />No hay honor igual."
+		],
+		"chorus" : "¡Qué grande, tu nombre,<br />es único, Jehová!<br />En el cielo, en la Tierra,<br />se ve tu majestad.<br />¡Qué poder tan infinito!<br />El mundo lo verá.<br />¡Qué grande, tu nombre!<br />A ti va mi canción, Jehová.",
+		"footer" : "(Vea también 2 Crón. 6:14; Sal. 72:19; Is. 42:8.)"
 	}
 ];
