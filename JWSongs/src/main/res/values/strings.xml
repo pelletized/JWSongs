@@ -28,7 +28,7 @@
     <string name="about_share">Share</string>
     <string name="about_share_summary">Tell your friends</string>
 
-    <string name="change_log_message">
+    <string name="change_log_message" translatable="false">
         <b>1.6.7</b>\n
         - added 3 new songs in Spanish\n\n
 

@@ -76,6 +76,16 @@ function Song(songNumber) {
 	}
 
 	this.build = function() {
+	    var chorusHeader, songSrc;
+
+	    if (Android.setLanguage() == "songdata-es.js") {
+            chorusHeader = 'ESTRIBILLO';
+            songSrc = 'Tomado de';
+        } else {
+            chorusHeader = 'CHORUS';
+            songSrc = 'Taken from';
+        }
+
 		var songContent = '<div id="song' + this.number + '" class="song">\n';
 		songContent += '<h1><span class="song-number">' + this.number + '</span> ' + this.title + '</h1>\n';
 		if (this.verse1) {
@@ -83,7 +93,7 @@ function Song(songNumber) {
 		}
 
 		if (this.chorus) {
-			songContent += '<p class="chorus">CHORUS:<br />' + this.chorus + '</p>\n';
+			songContent += '<p class="chorus">' + chorusHeader + ':<br />' + this.chorus + '</p>\n';
 		}
 
 		if (this.verse2) {
@@ -93,11 +103,13 @@ function Song(songNumber) {
 			songContent += '<p class="verse">' + this.verse3 + '</p>\n';
 		}
 
-		songContent += '<p class="song-footer">Taken from: ' + this.scripture + ' ' + this.footer + '</p>';
+		songContent += '<p class="song-footer">' + songSrc + ': ' + this.scripture + ' ' + this.footer + '</p>';
 
+        /*
 		if (this.piano) {
 			songContent += '<audio controls><source src="http://download.jw.org/files/media_music/' + this.piano + '/iasn_E_' + this.songFile + '.mp3" type="audio/mp3"></audio>';
 		}
+		*/
 
 		songContent += '</div>';
 
