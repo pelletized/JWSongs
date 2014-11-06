@@ -27,9 +27,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f34efc-db0a-4b9a-a7ba-6b8c991f77fa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js" afterPath="$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JWSongs.iws" />
@@ -1391,7 +1388,11 @@
       <created>1415163106465</created>
       <updated>1415163106465</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="fixed translation of 'chorus' and 'taken from', again">
+      <created>1415237839584</created>
+      <updated>1415237839584</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1496,7 +1497,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="reload activity only when font changes in preferences" />
     <MESSAGE value="typo in song 60" />
     <MESSAGE value="moved nav to action bar, started pref checkbox to keep screen on" />
     <MESSAGE value="moved nav to action bar, started checkbox in prefs to keep screen on" />
@@ -1521,7 +1521,8 @@
     <MESSAGE value="updated song picker to be more OOJS" />
     <MESSAGE value="updated 3 new songs in spanish" />
     <MESSAGE value="updated strings and version number" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated strings and version number" />
+    <MESSAGE value="fixed translation of 'chorus' and 'taken from', again" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed translation of 'chorus' and 'taken from', again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
