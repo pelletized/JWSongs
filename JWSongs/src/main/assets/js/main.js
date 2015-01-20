@@ -62,6 +62,7 @@ function Song(songNumber) {
 	this.scripture = songdata[songNumber].scripture;
 	this.piano = songdata[songNumber].piano;
 	this.footer = songdata[songNumber].footer;
+	this.musicPiano = songmusic[songNumber]; //in it's own array to share between translations
 
 	this.songFile = 001;
 	console.log(this.number);
@@ -105,11 +106,11 @@ function Song(songNumber) {
 
 		songContent += '<p class="song-footer">' + songSrc + ': ' + this.scripture + ' ' + this.footer + '</p>';
 
-        /*
-		if (this.piano) {
-			songContent += '<audio controls><source src="http://download.jw.org/files/media_music/' + this.piano + '/iasn_E_' + this.songFile + '.mp3" type="audio/mp3"></audio>';
-		}
-		*/
+        if (this.musicPiano) {
+            songContent += '<audio class="audio-player" controls>\n';
+            songContent += '<source src="' + this.musicPiano + '" type="audio/mpeg">\n';
+            songContent += '</audio>\n';
+        }
 
 		songContent += '</div>';
 
