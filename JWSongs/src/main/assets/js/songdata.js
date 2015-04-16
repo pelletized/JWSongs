@@ -1817,5 +1817,17 @@ var songdata = [
 		],
 		"chorus" : "Jehovah, Jehovah,<br>There is no God like you.<br>There's no other in the heavens<br>Or on the earth below.<br>You alone are God Almighty,<br>And this all men must know.<br>Jehovah, Jehovah,<br>We have no other God but you.",
 		"footer" : "(See also 2 Chron. 6:14; Ps. 72:19; Isa. 42:8.)"
+	},
+	{
+		"number" : "139",
+		"title" : "Teach Them to Stand Firm",
+		"scripture" : "(Matthew 28:19, 20)",
+		"verse" : [
+			"1. What a joy to teach Jehovah's sheep<br>And to see how they have grown.<br>We have seen how he has guided them<br>As they’ve made the truth their own.",
+			"2. Ev’ry day we said a prayer for them,<br>As their faith was under test.<br>We made time to teach and care for them;<br>They’ve grown strong, and they’ve been blessed.",
+			"3. May they all maintain their confidence,<br>Trust in God and in his Son.<br>Through endurance and obedience,<br>May their race for life be won."
+		],
+		"chorus" : "Jehovah, may you hear our prayer<br>And keep them in your watchful care.<br>In Jesus’ name, for them we plead: May they succeed;<br>May ev’ry one of them stand firm.",
+		"footer" : "(See also Luke 6:48; Acts 5:42; Phil. 4:1.)"
 	}
 ];

@@ -1783,7 +1783,7 @@ var songdata = [
 		],
 
 		"footer" : "(Véanse también Heb. 6:19; Sant. 1:4; 2 Ped. 3:12; Rev. 2:4.)"
-	},	
+	},
 	{
 		"number" : "136",
 		"title" : "¡Que venga el Reino establecido por Dios!",
@@ -1795,7 +1795,7 @@ var songdata = [
 		],
 		"chorus" : "¡El Reino ya nació!<br />Tendremos por fin salvación.<br />Rogamos con gran fe:<br />“¡Que venga el Reino de Dios!”.",
 		"footer" : "(Vea también Dan. 2:34, 35; 2 Cor. 4:18.)"
-	},	
+	},
 	{
 		"number" : "137",
 		"title" : "Danos fuerzas y valor",
@@ -1807,7 +1807,7 @@ var songdata = [
 		],
 		"chorus" : "Oh Jehová, te suplicamos,<br />danos fuerzas y valor.<br />Haz que nada nos detenga,<br />eres nuestro Salvador.<br />En el día de tu furor,<br />el leal saldrá vencedor.<br />Oh Jehová, te suplicamos,<br />escúchanos.",
 		"footer" : "(Vea también 1 Tes. 2:2; Heb. 10:35.)"
-	},	
+	},
 	{
 		"number" : "138",
 		"title" : "El gran nombre de Jehová",
@@ -1819,5 +1819,19 @@ var songdata = [
 		],
 		"chorus" : "¡Qué grande, tu nombre,<br />es único, Jehová!<br />En el cielo, en la Tierra,<br />se ve tu majestad.<br />¡Qué poder tan infinito!<br />El mundo lo verá.<br />¡Qué grande, tu nombre!<br />A ti va mi canción, Jehová.",
 		"footer" : "(Vea también 2 Crón. 6:14; Sal. 72:19; Is. 42:8.)"
+	},
+	{
+		"number" : "139",
+		"title" : "Ayúdalos a ser fuertes",
+		"scripture" : "(Mateo 28:19, 20)",
+		"verse" : [
+				"1. Oh, Jehová, tú eres el Pastor,<br>y los mansos van a ti.<br>Nos alegra verlos progresar<br>y buscar tu amistad.",
+
+				"2. Con amor les dimos atención,<br>y lograron tu favor.<br>No dejábamos de suplicar:<br>“Dales fuerzas y valor”.",
+
+				"3. Deseamos que su fe en ti<br>sea firme y total.<br>Si tu ley observan sin dudar,<br>la carrera ganarán."
+		],
+		"chorus" : "Escucha nuestra oración<br>en nombre del Señor Jesús:<br>a todos dales protección, tu bendición<br>y fuerzas en su corazón.",
+		"footer" : "(Vea también Luc. 6:48; Hech. 5:42; Filip. 4:1.)"
 	}
 ];

@@ -136,5 +136,6 @@ var songmusic = [
 "http://download.jw.org/files/media_music/27/iasn_E_135.mp3",
 "http://download.jw.org/files/media_books/c5/snnw_E_136.mp3",
 "http://download.jw.org/files/media_books/e3/snnw_E_137.mp3",
-"http://download.jw.org/files/media_books/fc/snnw_E_138.mp3"
+"http://download.jw.org/files/media_books/fc/snnw_E_138.mp3",
+"http://download.jw.org/files/media_books/d3/snnw_E_139.mp3"
 ];

@@ -22,7 +22,7 @@ function List() {
 		var tocButton = "";
 		var innerHTML = "";
 		toc.innerHTML = "";
-		var max = 138;
+		var max = 139;
 		songNum = 1; //global
 
 		for (var i = 1; i <= max; i++){
@@ -105,12 +105,13 @@ function Song(songNumber) {
 		}
 
 		songContent += '<p class="song-footer">' + songSrc + ': ' + this.scripture + ' ' + this.footer + '</p>';
-
+        /*
         if (this.musicPiano) {
             songContent += '<audio class="audio-player" controls>\n';
             songContent += '<source src="' + this.musicPiano + '" type="audio/mpeg">\n';
             songContent += '</audio>\n';
         }
+        */
 
 		songContent += '</div>';
 
