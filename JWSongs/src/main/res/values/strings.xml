@@ -29,6 +29,10 @@
     <string name="about_share_summary">Tell your friends</string>
 
     <string name="change_log_message" translatable="false">
+        <b>1.6.9</b>\n
+        - added songs #140-142 in English\n
+        - minor adjustments to layout in smallest screen sizes\n\n
+
         <b>1.6.8</b>\n
         - added new song #139 in English and Spanish\n\n
 

@@ -1829,5 +1829,39 @@ var songdata = [
 		],
 		"chorus" : "Jehovah, may you hear our prayer<br>And keep them in your watchful care.<br>In Jesus’ name, for them we plead: May they succeed;<br>May ev’ry one of them stand firm.",
 		"footer" : "(See also Luke 6:48; Acts 5:42; Phil. 4:1.)"
-	}
+	},
+    {
+        "number" : "140",
+        "title" : "The Life of a Pioneer",
+        "scripture" : "(Ecclesiastes 11:6)",
+        "verse" : [
+            "1.  At the start of the day, with the sun yet to rise,<br>We are making our way<br>with the sleep in our eyes, and we pray.<br>We are there with a smile for the people we meet.<br>Some may stop for a while,<br>some pass by on the street, but we stay.",
+            "2.  At the end of the day, with the sun sinking low,<br>Feeling happy and tired,<br>in our heart there's a glow, and we pray.<br>It's a life that we love, always giving our best.<br>And Jehovah we thank,<br>for by him we are blessed ev'ry day."
+        ],
+        "chorus" : "It's the life that we choose;<br>For Jehovah we live.<br>And whatever he asks, we will do.<br>In the work we endure,<br>Whether sunshine or rain.<br>It's a way we can say ev'ry day: \"I love you.\"",
+        "footer" : "(See also Josh. 24:15; Ps. 92:2; Rom. 14:8.)"
+    },
+    {
+        "number" : "141",
+        "title" : "Searching for Friends of Peace",
+        "scripture" : "(Luke 10:6)",
+        "verse" : [
+            "1.  Jesus commanded: 'Let the truth be heard.'<br>In summer heat, on dusty roads,<br>He let all hear Jehovah's word.<br>He loved God's sheep and called to ev'ryone.<br>He searched the land<br>from the sunrise 'til the day was done.<br>From door to door and in the street,<br>We share with ev'ryone we meet<br>The news that soon man's troubles all will be gone.",
+            "2.  Time waits for no one, so the search goes on.<br>A million hearts, a million lives,<br>We give our all to save just one.<br>Love is the force that makes us call again.<br>A wounded heart can be healed,<br>and broken lives can mend.<br>We search the towns and city squares,<br>And when we find someone who cares,<br>The joy we feel inspires us to go on."
+        ],
+        "chorus" : "Searching the world<br>For friends of peace in ev'ry nation,<br>Searching to find<br>A heart inclined toward salvation,<br>Wanting to leave<br>No stone unturned.",
+        "footer" : "(See also Isa. 52:7; Matt. 28:19, 20; Luke 8:1; Rom. 10:10.)"
+    },
+    {
+        "number" : "142",
+        "title" : "Preaching to All Sorts of People",
+        "scripture" : "(1 Timothy 2:4)",
+        "verse" : [
+            "1.  We really want to imitate our God,<br>To be impartial, as we know he is.<br>To save all sorts of people is his will;<br>He welcomes all to come and to be his.",
+            "2.  It doesn't matter where they may be found<br>Or what at first they might appear to be.<br>What really counts is what they are at heart&mdash;<br>The inner self, the one Jehovah sees.",
+            "3.  Jehovah welcomes all who make the choice<br>To leave the world and all its ways behind.<br>This we have learned, and this we want to share,<br>And so we preach to people of all kinds."
+        ],
+        "chorus" : "It's the person, not the place;<br>It's the heart and not the face.<br>God's message to all people we extend.<br>So because we really care,<br>We keep preaching ev'rywhere:<br>\"All sorts of people can become God's friend.\"",
+        "footer" : "(See also John 12:32; Acts 10:34; 1 Tim. 4:10; Tit. 2:11.)"
+    }
 ];
