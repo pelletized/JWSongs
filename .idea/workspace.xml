@@ -27,9 +27,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.pelletized.jwsongs" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f34efc-db0a-4b9a-a7ba-6b8c991f77fa" name="Default" comment="added 140-142 in en, fixed css">
+    <list default="true" id="e3f34efc-db0a-4b9a-a7ba-6b8c991f77fa" name="Default" comment="added 140-142 in es, typo in #73 es">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js" afterPath="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js" afterPath="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -101,18 +102,8 @@
       <file leaf-file-name="songdata.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="30927" max-vertical-offset="31824">
-              <caret line="1865" column="5" selection-start-line="1832" selection-start-column="4" selection-end-line="1865" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.08" vertical-offset="459" max-vertical-offset="1292">
-              <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="31271" max-vertical-offset="31858">
+              <caret line="1868" column="2" selection-start-line="1868" selection-start-column="2" selection-end-line="1868" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -121,7 +112,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="2176">
+            <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2176">
               <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding />
             </state>
@@ -131,28 +122,28 @@
       <file leaf-file-name="songdata-es.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="31386" max-vertical-offset="31960">
-              <caret line="1874" column="2" selection-start-line="1874" selection-start-column="2" selection-end-line="1874" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="31488" max-vertical-offset="31994">
+              <caret line="1876" column="2" selection-start-line="1876" selection-start-column="2" selection-end-line="1876" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="songmusic.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songmusic.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1640" max-vertical-offset="2482">
-              <caret line="139" column="60" selection-start-line="139" selection-start-column="60" selection-end-line="139" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1310212" vertical-offset="0" max-vertical-offset="799">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2827443" vertical-offset="408" max-vertical-offset="1343">
+              <caret line="32" column="72" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -743,12 +734,12 @@
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/index.html" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/songmusic.js" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/java/com/pelletized/jwsongs/MainActivity.java" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/main.js" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/assets/app.css" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js" />
         <option value="$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js" />
+        <option value="$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -800,6 +791,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -969,8 +962,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1329,7 +1320,11 @@
       <created>1431817818977</created>
       <updated>1431817818977</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="added 140-142 in es, typo in #73 es">
+      <created>1433696705915</created>
+      <updated>1433696705919</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1369,7 +1364,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32068965" sideWeight="0.49925372" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.49958017" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32743362" sideWeight="0.49925485" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37126437" sideWeight="0.49925372" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37126437" sideWeight="0.49925372" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3249052" sideWeight="0.5007452" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24388753" sideWeight="0.67038214" order="0" side_tool="false" content_ui="combo" />
@@ -1435,7 +1430,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="checkbox in prefs keeps screen on" />
     <MESSAGE value="fix screen sleep preferences save when closing and opening app" />
     <MESSAGE value="added new about activity" />
     <MESSAGE value="got home button working properly in about activity" />
@@ -1460,7 +1454,8 @@
     <MESSAGE value="added song music, not working yet (audio tags don't work in webview?)" />
     <MESSAGE value="added song 139 in en and es" />
     <MESSAGE value="added 140-142 in en, fixed css" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 140-142 in en, fixed css" />
+    <MESSAGE value="added 140-142 in es, typo in #73 es" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 140-142 in es, typo in #73 es" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1790,26 +1785,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="30927" max-vertical-offset="31824">
-          <caret line="1865" column="5" selection-start-line="1832" selection-start-column="4" selection-end-line="1865" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.4473684" vertical-offset="1495" max-vertical-offset="2312">
           <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songmusic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.08" vertical-offset="459" max-vertical-offset="1292">
-          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+        <state vertical-scroll-proportion="1.3930635" vertical-offset="1640" max-vertical-offset="2482">
+          <caret line="139" column="60" selection-start-line="139" selection-start-column="60" selection-end-line="139" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="31488" max-vertical-offset="31994">
+          <caret line="1876" column="2" selection-start-line="1876" selection-start-column="2" selection-end-line="1876" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="31271" max-vertical-offset="31858">
+          <caret line="1868" column="2" selection-start-line="1868" selection-start-column="2" selection-end-line="1868" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -1822,26 +1832,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songdata-es.js">
+    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="31386" max-vertical-offset="31960">
-          <caret line="1874" column="2" selection-start-line="1874" selection-start-column="2" selection-end-line="1874" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/assets/js/songmusic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1946" max-vertical-offset="2482">
-          <caret line="139" column="60" selection-start-line="139" selection-start-column="60" selection-end-line="139" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JWSongs/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1310212" vertical-offset="0" max-vertical-offset="799">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.2827443" vertical-offset="408" max-vertical-offset="1343">
+          <caret line="32" column="72" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
           <folding />
         </state>
       </provider>

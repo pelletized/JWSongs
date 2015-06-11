@@ -1791,7 +1791,9 @@ var songdata = [
 		"verse" : [
 				"1. Jehová para siempre será<br>el Rey universal.<br>A Cristo le quiso entregar<br>un trono celestial.<br>Jesús ocupa su lugar;<br>la Tierra entera regirá.",
 
-				"2. El Diablo jamás triunfará;<br>su tiempo terminó.<br>Sabemos que pronto vendrá<br>el fin de la aflicción.<br>Jesús ocupa su lugar;<br>la Tierra entera regirá."
+				"2. El Diablo jamás triunfará;<br>su tiempo terminó.<br>Sabemos que pronto vendrá<br>el fin de la aflicción.<br>Jesús ocupa su lugar;<br>la Tierra entera regirá.",
+
+				"3. Los ángeles quieren cantar<br>alegres su canción.<br>El cielo ya libre quedó<br>del Diablo y su mal.<br>Jesús ocupa su lugar;<br>la Tierra entera regirá."
 		],
 		"chorus" : "¡El Reino ya nació!<br>Tendremos por fin salvación.<br>Rogamos con gran fe:<br>“¡Que venga el Reino de Dios!”.",
 		"footer" : "(Vea también Dan. 2:34, 35; 2 Cor. 4:18.)"
