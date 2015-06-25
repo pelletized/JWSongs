@@ -1,22 +1,15 @@
 package com.pelletized.jwsongs;
 
 import android.app.Activity;
-import android.app.ActionBar;
 import android.app.AlertDialog;
-import android.app.Fragment;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.ViewGroup;
-import android.os.Build;
 import android.widget.TextView;
 
 public class AboutActivity extends Activity {
@@ -86,7 +79,7 @@ public class AboutActivity extends Activity {
 
     public void onClickEmail(View v) {
         Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts("mailto","ed@pelletized.com", null));
-        intent.putExtra(Intent.EXTRA_SUBJECT, "About JW Songs");
+        intent.putExtra(Intent.EXTRA_SUBJECT, "About Songs for Jehovah");
         //startActivity(intent);
         startActivity(Intent.createChooser(intent, "Send email..."));
     }
@@ -105,7 +98,7 @@ public class AboutActivity extends Activity {
         Intent intent = new Intent(Intent.ACTION_SEND);
         intent.setType("text/plain");
         intent.putExtra(Intent.EXTRA_SUBJECT, "JW Songs");
-        intent.putExtra(Intent.EXTRA_TEXT, "Check out this app JW Songs http://play.google.com/store/apps/details?id=" + appPackageName);
+        intent.putExtra(Intent.EXTRA_TEXT, "Check out this app Songs for Jehovah http://play.google.com/store/apps/details?id=" + appPackageName);
         startActivity(Intent.createChooser(intent, "Share..."));
     }
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">JW Songs</string>
+    <string name="app_name">Theocratic Songs</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_about">About JW Songs</string>
+    <string name="title_activity_about">About Theocratic Songs</string>
 
     <string name="title_pref_font_size">Font Size</string>
     <string name="summary_pref_font_size">Choose a default font size</string>
@@ -29,6 +29,13 @@
     <string name="about_share_summary">Tell your friends</string>
 
     <string name="change_log_message" translatable="false">
+        <b>1.7.1</b>\n
+        - new app name! sorry for changing it so much =D\n\n
+
+        <b>1.7</b>\n
+        - New app name!\n
+        - updated edits to new songs\n\n
+
         <b>1.6.11</b>\n
         - added additional verse to song #136 in English and Spanish\n\n
 

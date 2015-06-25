@@ -1838,7 +1838,7 @@ var songdata = [
 		"scripture" : "(Ecclesiastes 11:6)",
 		"verse" : [
 			"1.  At the start of the day, with the sun yet to rise,<br>We are making our way<br>with the sleep in our eyes, and we pray.<br>We are there with a smile for the people we meet.<br>Some may stop for a while,<br>some pass by on the street, but we stay.",
-			"2.  At the end of the day, with the sun sinking low,<br>Feeling happy and tired,<br>in our heart there's a glow, and we pray.<br>It's a life that we love, always giving our best.<br>And Jehovah we thank,<br>for by him we are blessed ev'ry day."
+			"2.  At the end of the day, with the sun sinking low,<br>Feeling happy and tired,<br>in our heart there's a glow,<br>and we pray.<br>It's a life that we love, always giving our best.<br>And Jehovah we thank,<br>for by him we are blessed ev'ry day."
 		],
 		"chorus" : "It's the life that we choose;<br>For Jehovah we live.<br>And whatever he asks, we will do.<br>In the work we endure,<br>Whether sunshine or rain.<br>It's a way we can say ev'ry day: \"I love you.\"",
 		"footer" : "(See also Josh. 24:15; Ps. 92:2; Rom. 14:8.)"

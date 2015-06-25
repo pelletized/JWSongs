@@ -1843,7 +1843,7 @@ var songdata = [
 		"verse" : [
 				"1. Con el amanecer, te oramos, Jehová;<br>muy temprano buscamos<br>la fuerza que viene de ti.<br>Este día, también, nos verán sonreír;<br>aunque pocos oirán,<br>no pensamos rendirnos jamás.",
 
-				"2. Con la puesta del sol, al volver al hogar,<br>nos sentimos alegres,<br>radiantes de satisfacción.<br>No hay nada mejor que hacerte feliz,<br>cada día sentir<br>que contamos con tu bendición."
+				"2. Con la puesta del sol, al volver al hogar,<br>te oramos de nuevo<br>radiantes de satisfacción.<br>No hay nada mejor que hacerte feliz,<br>cada día sentir<br>que contamos con tu bendición."
 		],
 		"chorus" : "Qué honor es, Jehová,<br>trabajar para ti,<br>alabarte con felicidad.<br>Venga lluvia o sol,<br>nada nos detendrá,<br>lo que pidas queremos hacer, por amor.",
 		"footer" : "(Vea también Jos. 24:15; Sal. 92:2; Rom. 14:8.)"
