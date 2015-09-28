@@ -1717,7 +1717,8 @@ var songdata = [
 
 				"2. En la vida habrá quien se cansará,<br>quien dirá: \"Maldice a Dios y muere ya\".<br>Como Job seré; no me rendiré<br>y las gracias por la vida siempre daré."
 		],
-		"chorus" : "Y ¿cómo pagaré la bondad de Dios?<br>Amaré al semejante con el corazón.<br>Vivir es un placer, es un privilegio,<br>regalo del Señor, milagro de Jehová.",
+		"chorus" : "Y ¿cómo pagaré la bondad de Dios?<br>Le daré mi obediencia y mi corazón.<br>Vivir es un placer, es un privilegio,<br>regalo del Señor, milagro de Jehová.",
+		"chorus2" : "Y ¿cómo pagaré la bondad de Dios?<br>Amaré al semejante con el corazón.<br>Vivir es un placer, es un privilegio,<br>regalo del Señor, milagro de Jehová.",
 		"footer" : "(Véanse también Job 2:9; Sal. 34:12; Ecl. 8:15; Mat. 22:37-40; Rom. 6:23.)"
 	},
 	{

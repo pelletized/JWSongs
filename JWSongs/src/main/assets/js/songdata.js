@@ -1679,7 +1679,7 @@ var songdata = [
 		"verse" : [
 				"1. How great is the honor, Jehovah, To build you a place for your name! We offer it now with rejoicing To add to your glory and fame. Whatever the things we may give you, They rightly were yours from the start. Our labor, our skill, our possessions, We joyfully give from the heart.",
 
-				"2. And By May Of now may we honor you, Father, filling this place with your praise. glory ascend with the increase those who are learning your ways. Committing this place to your worship, We give it our generous care. And long may it stand as a witness, Supporting the message we bear."
+				"2. And now may we honor you, Father, By filling this place with your praise. May glory ascend with the increase Of those who are learning your ways. Committing this place to your worship, We give it our generous care. And long may it stand as a witness, Supporting the message we bear."
 		],
 		"chorus" : "May we present this place to you, And here may your name be known. We dedicate this place to you; Please accept it as your own. ",
 		"footer" : "(See also 1 Ki. 8:18, 27; 1 Chron. 29:11-14; Acts 20:24.)"
@@ -1717,7 +1717,8 @@ var songdata = [
 
 				"2. Others may give up, Lose their will to try, Echoing the wife of Job: \"Curse God and die.\" We are not that way. Praise to God we give, Thanking him for ev'ry precious moment we live."
 		],
-		"chorus" : "So, what are we to do with a gift so rare But to love the One who gave it and show him we care. No matter what we do, We never can earn it. This gift is still a gift&mdash;The miracle of life. ",
+		"chorus" : "So, what are we to do with a gift so rare But to love the One who gave it and show him we care. No matter what we do, We never can earn it. This gift is still a gift&mdash;The miracle of life.",
+		"chorus2" : "So, what are we to do with a gift so rare But to love the ones around us and show them we care. No matter what we do, We never can earn it. This gift is still a gift&mdash;The miracle of life.",
 		"footer" : "(See also Job 2:9; Ps. 34:12; Eccl. 8:15; Matt. 22:37-40; Rom. 6:23.)"
 	},
 	{

@@ -29,8 +29,17 @@
     <string name="about_share_summary">Tell your friends</string>
 
     <string name="change_log_message" translatable="false">
+        <b>1.7.3</b>\n
+        - maintenance cleanup\n
+        - fixed song #127 typo in English\n
+        - fixed song #54 typo in Spanish\n\n
+
+        <b>1.7.2</b>\n
+        - fixed song #130 chorus in English and Spanish\n
+        - fixed email subject line\n\n
+
         <b>1.7.1</b>\n
-        - new app name! sorry for changing it so much =D\n\n
+        - new app name\n\n
 
         <b>1.7</b>\n
         - New app name!\n

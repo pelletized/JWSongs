@@ -78,8 +78,9 @@ public class AboutActivity extends Activity {
     }
 
     public void onClickEmail(View v) {
+        String emailSubject = "About ".concat(getString(R.string.app_name));
         Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts("mailto","ed@pelletized.com", null));
-        intent.putExtra(Intent.EXTRA_SUBJECT, "About Songs for Jehovah");
+        intent.putExtra(Intent.EXTRA_SUBJECT, emailSubject );
         //startActivity(intent);
         startActivity(Intent.createChooser(intent, "Send email..."));
     }
