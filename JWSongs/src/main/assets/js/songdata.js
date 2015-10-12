@@ -1679,7 +1679,7 @@ var songdata = [
 		"verse" : [
 				"1. How great is the honor, Jehovah, To build you a place for your name! We offer it now with rejoicing To add to your glory and fame. Whatever the things we may give you, They rightly were yours from the start. Our labor, our skill, our possessions, We joyfully give from the heart.",
 
-				"2. And now may we honor you, Father, By filling this place with your praise. May glory ascend with the increase Of those who are learning your ways. Committing this place to your worship, We give it our generous care. And long may it stand as a witness, Supporting the message we bear."
+				"2. And By May Of now may we honor you, Father, filling this place with your praise. glory ascend with the increase those who are learning your ways. Committing this place to your worship, We give it our generous care. And long may it stand as a witness, Supporting the message we bear."
 		],
 		"chorus" : "May we present this place to you, And here may your name be known. We dedicate this place to you; Please accept it as your own. ",
 		"footer" : "(See also 1 Ki. 8:18, 27; 1 Chron. 29:11-14; Acts 20:24.)"
@@ -1866,5 +1866,39 @@ var songdata = [
 		],
 		"chorus" : "It's the person, not the place;<br>It's the heart and not the face.<br>God's message to all people we extend.<br>So because we really care,<br>We keep preaching ev'rywhere:<br>\"All sorts of people can become God's friend.\"",
 		"footer" : "(See also John 12:32; Acts 10:34; 1 Tim. 4:10; Tit. 2:11.)"
+	},
+	{
+		"number" : "143",
+		"title" : "Light in a Darkened World",
+		"scripture" : "(2 Corinthians 4:6)",
+		"verse" : [
+			"1. In these days, dark and lawless days,<br>Shines a light we can see.<br>Like the dawn of another day<br>That will soon come to be.",
+			"2. Those who sleep need awakening<br>As the time ebbs away.<br>We give hope and encouragement.<br>For their future we’ll pray."
+		],
+		"chorus" : "Shining through the darkness,<br>Ours is a message so bright.<br>It offers hope and light—<br>Sparkling like the daylight,<br>Bringing tomorrow in sight—<br>So ends the night.",
+		"footer" : "(See also John 3:19; 8:12; Rom. 13:11, 12; 1 Pet. 2:9.)"
+	},
+	{
+		"number" : "144",
+		"title" : "It Means Their Life",
+		"scripture" : "(Ezekiel 3:17-19)",
+		"verse" : [
+			"1. In this year of goodwill<br>by our God, all need to hear<br>That the day of his anger<br>will come, and it is near.<br>",
+			"2. There’s a message to preach,<br>so we spread it all abroad.<br>We invite all to come and<br>be reconciled to God.",
+			"(BRIDGE)<br>It’s urgent, it’s important,<br>That people listen, learn, and live.<br>We tell them, and we teach them;<br>Life-giving truth we freely give."
+		],
+		"chorus" : "It means their life, but not just theirs;<br>It means our own life as well.<br>It means their life if they obey,<br>So all the nations we must tell;<br>We must tell.",
+		"footer" : "(See also 2 Chron. 36:15; Isa. 61:2; Ezek. 33:6; 2 Thess. 1:8.)"
+	},
+	{
+		"number" : "145",
+		"title" : "Preparing to Preach",
+		"scripture" : "(Jeremiah 1:17)",
+		"verse" : [
+			"1. Morning comes.<br>Soon we will be<br>On our way to preach good news.<br>But it’s dark outside,<br>And the rain starts to fall.<br>It would be easy to stay inside,<br>sleepy-eyed.",
+			"2. Soon we’ll see<br>Joy come our way<br>If these things we keep in mind.<br>And Jehovah sees<br>Ev’ry effort we make,<br>And he remembers the love we show;<br>this we know."
+		],
+		"chorus" : "Positive thoughts and preparation,<br>Praying that we’ll succeed;<br>This can provide the inspiration,<br>We’ll surely need.<br>We’re not alone; the angels guide us.<br>Jesus commands them all.<br>And with a loyal friend beside us,<br>We’ll never fall.",
+		"footer" : "(See also Eccl. 11:4; Matt. 10:5, 7; Luke 10:1; Titus 2:14.)"
 	}
 ];

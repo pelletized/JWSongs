@@ -30,6 +30,7 @@
 
     <string name="change_log_message" translatable="false">
         <b>1.7.3</b>\n
+        - added 3 new songs in English\n
         - maintenance cleanup\n
         - fixed song #127 typo in English\n
         - fixed song #54 typo in Spanish\n\n
