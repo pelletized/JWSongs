@@ -1679,7 +1679,7 @@ var songdata = [
 		"verse" : [
 				"1. How great is the honor, Jehovah, To build you a place for your name! We offer it now with rejoicing To add to your glory and fame. Whatever the things we may give you, They rightly were yours from the start. Our labor, our skill, our possessions, We joyfully give from the heart.",
 
-				"2. And By May Of now may we honor you, Father, filling this place with your praise. glory ascend with the increase those who are learning your ways. Committing this place to your worship, We give it our generous care. And long may it stand as a witness, Supporting the message we bear."
+				"2. And now may we honor you, Father, By filling this place with your praise. May glory ascend with the increase Of those who are learning your ways. Committing this place to your worship, We give it our generous care. And long may it stand as a witness, Supporting the message we bear."
 		],
 		"chorus" : "May we present this place to you, And here may your name be known. We dedicate this place to you; Please accept it as your own. ",
 		"footer" : "(See also 1 Ki. 8:18, 27; 1 Chron. 29:11-14; Acts 20:24.)"
