@@ -1874,5 +1874,44 @@ var songdata = [
 		],
 		"chorus" : "Siempre es el corazón<br>lo que cuenta para Dios;<br>a todos les ofrece la verdad.<br>Él creó la variedad,<br>todos pueden aspirar<br>a ser amigos del gran Dios Jehová.",
 		"footer" : "(Vea también Juan 12:32; Hech. 10:34; 1 Tim. 4:10; Tito 2:11.)"
+	},
+
+	{
+		"number" : "143",
+		"title" : "Luz en un mundo oscuro",
+		"scripture" : "(2 Corintios 4:6)",
+		"verse" : [
+				"1. Vemos hoy mal y confusión,<br>pero llega la luz.<br>Es el Sol del amanecer:<br>un futuro mejor.",
+
+				"2. Muchos ya deben despertar,<br>pues el día llegó.<br>Con amor, les llevamos paz,<br>el consuelo de Dios."
+		],
+		"chorus" : "Triunfa, muy gloriosa,<br>la fiel Palabra de Dios<br>y brilla la verdad.<br>Qué bello mensaje:<br>ya no veremos dolor<br>ni más maldad.",
+		"footer" : "(Vea también Juan 3:19; 8:12; Rom. 13:11, 12; 1 Ped. 2:9)"
+	},
+	{
+		"number" : "144",
+		"title" : "Hay vidas en juego",
+		"scripture" : "(Ezequiel 3:17-19)",
+		"verse" : [
+				"1. Dios desea que hoy<br>todos puedan escuchar<br>que su día de juicio<br>muy pronto llegará.",
+
+				"2. Invitamos a todos<br>a conocer a Dios.<br>Su mensaje de paz<br>proclamamos sin cesar.",
+
+				"(TRANSICIÓN)<br>Jehová nos pide cuentas,<br>es importante predicar.<br>Aquellos que respondan<br>tendrán la vida que Dios da."
+		],
+		"chorus" : "Sus vidas son de gran valor<br>y nuestra vida también.<br>Al escuchar a nuestro Dios,<br>podremos juntos obtener<br>salvación.",
+		"footer" : "(Vea también 2 Crón. 36:15; Is. 61:2; Ezeq. 33:6; 2 Tes. 1:8)."
+	},
+	{
+		"number" : "145",
+		"title" : "Hoy voy a predicar",
+		"scripture" : "(Jeremías 1:17)",
+		"verse" : [
+				"1. Veo ya<br>amanecer.<br>Quiero ir a predicar.<br>Pero llueve hoy,<br>es un día tan gris...<br>Me gustaría más descansar,<br>no salir.",
+
+				"2. Aceptar<br>su protección<br>me dará felicidad.<br>Sé que Dios verá<br>lo que siento por él.<br>Jamás olvida lo que le doy<br>por amor."
+		],
+		"chorus" : "Con pensamientos positivos,<br>pido valor a Dios.<br>Con entusiasmo me preparo,<br>es lo mejor.<br>Cuando predico, no voy solo,<br>miedo no sentiré.<br>Voy de la mano de Jehová Dios,<br>no temeré.",
+		"footer" : "(Vea también Ecl. 11:4; Mat. 10:5, 7; Luc. 10:1; Tito 2:14)."
 	}
 ];
