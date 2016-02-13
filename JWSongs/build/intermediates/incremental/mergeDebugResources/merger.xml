@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res"/><source path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\build\generated\res\rs\debug"/><source path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res"><file name="background" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\drawable\background.xml" qualifiers="" type="drawable"/><file name="normal" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\drawable\normal.xml" qualifiers="" type="drawable"/><file name="pressed" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\drawable\pressed.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_about" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\layout\activity_about.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="about" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\menu\about.xml" qualifiers="" type="menu"/><file name="main" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values\arrays.xml" qualifiers=""><string-array name="languageValues">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array><string-array name="language">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array><string-array name="fontsizeValues">
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>26</item>
+    </string-array><string-array name="fontsize">
+        <item>Small (14)</item>
+        <item>Regular (18)</item>
+        <item>Large (22)</item>
+        <item>Extra large (26)</item>
+    </string-array></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values\strings.xml" qualifiers=""><string name="about_rate">Rate this app</string><string name="title_pref_sleep">Screen Sleep</string><string name="action_settings">Settings</string><string name="summary_off_pref_sleep">Use phone defaults for screen</string><string name="change_log_message" translatable="false">
+        <b>1.7.6</b>\n
+        - fixed typos
+        - added songs 146 - 150 in English\n\n
+
+        <b>1.7.5</b>\n
+        - added 3 new songs in Spanish\n\n
+
+        <b>1.7.4</b>\n
+        - fixed song #127 typo in English\n\n
+
+        <b>1.7.3</b>\n
+        - added 3 new songs in English\n
+        - maintenance cleanup\n
+        - fixed song #54 typo in Spanish\n\n
+
+        <b>1.7.2</b>\n
+        - fixed song #130 chorus in English and Spanish\n
+        - fixed email subject line\n\n
+
+        <b>1.7.1</b>\n
+        - new app name\n\n
+
+        <b>1.7</b>\n
+        - New app name!\n
+        - updated edits to new songs\n\n
+
+        <b>1.6.11</b>\n
+        - added additional verse to song #136 in English and Spanish\n\n
+
+        <b>1.6.10</b>\n
+        - added songs #140-142 in Spanish\n
+        - fixed typo song #73 in Spanish\n\n
+
+        <b>1.6.9</b>\n
+        - added songs #140-142 in English\n
+        - minor adjustments to layout in smallest screen sizes\n\n
+
+        <b>1.6.8</b>\n
+        - added new song #139 in English and Spanish\n\n
+
+        <b>1.6.7</b>\n
+        - added 3 new songs in Spanish\n\n
+
+        <b>1.6.6</b>\n
+        - added 3 new songs in English\n\n
+
+        <b>1.6.5</b>\n
+        - fixed bug where songs don\'t display if system language is Spanish\n\n
+
+        <b>1.6.4</b>\n
+        - minor bug and translation fixes\n\n
+
+        <b>1.6.3</b>\n
+        - Song lyrics are now in Spanish. Go to Settings and click on Language to switch between English and Spanish.\n
+        - Added new About section\n\n
+
+        <b>02/02/2014</b>\n
+        bug fixes\n
+        - screen sleep now remembers settings after closing and reopening app\n\n
+
+        <b>01/29/2014</b>\n
+        bug fixes\n
+        - special characters are now displayed correctly\n
+        new stuff\n
+        - updated navigation! To get back to the list of songs, simply tap the app icon in the top left corner, or tap on the back button at the bottom of your screen. Double tap the back button to exit the app.\n
+        - set screen to not turn off while using the app, in settings menu\n
+    </string><string name="about_email_summary">Send any questions or bug reports</string><string name="summary_pref_font_size">Choose a default font size</string><string name="summary_pref_language">Choose a default language</string><string name="about_changelog_summary">See what\'s new and updated</string><string name="about_email">Email developer</string><string name="about_rate_summary">Share your opinions about this app</string><string name="about_changelog_title">Change log</string><string name="about_share_summary">Tell your friends</string><string name="about_share">Share</string><string name="summary_on_pref_sleep">Keep screen active while using app</string><string name="about_build_version">Build version</string><string name="app_name">Theocratic Songs</string><string name="title_pref_font_size">Font Size</string><string name="title_pref_language">Language</string><string name="title_activity_about">About Theocratic Songs</string></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values-es\arrays.xml" qualifiers="es"><string-array name="fontsize">
+        <item>Pequeño (14)</item>
+        <item>Regular (18)</item>
+        <item>Grande (22)</item>
+        <item>Extra grande (26)</item>
+    </string-array><string-array name="language">
+        <item>Inglés</item>
+        <item>Español</item>
+    </string-array><string-array name="languageValues">
+        <item>Inglés</item>
+        <item>Español</item>
+    </string-array><string-array name="fontsizeValues">
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>26</item>
+    </string-array></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values-es\strings.xml" qualifiers="es"><string name="summary_pref_font_size">Elija un tamaño de fuente por defecto</string><string name="about_build_version">Versión</string><string name="about_rate_summary">Comparte tus opiniones acerca de esta aplicación</string><string name="about_email_summary">Envíe cualquier pregunta o informes de error</string><string name="title_pref_font_size">tamaño de la fuente</string><string name="about_rate">Calificar este programa</string><string name="about_changelog_title">Cambio de registro</string><string name="action_settings">Configuración</string><string name="summary_on_pref_sleep">Mantenga la pantalla activa mientras se utiliza la aplicación</string><string name="summary_off_pref_sleep">Usar los valores predeterminados del teléfono para la pantalla</string><string name="about_email">Desarrollador email</string><string name="about_changelog_summary">Vea lo nuevo y actualizado</string><string name="app_name">JW Songs</string><string name="title_pref_language">Idioma</string><string name="about_share">Compartir</string><string name="title_activity_about">Acerca de JW Songs</string><string name="title_pref_sleep">Screen Sleep</string><string name="about_share_summary">Dile a tus amigos</string><string name="summary_pref_language">Elija un idioma predeterminado</string></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="prefs" path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\xml\prefs.xml" qualifiers="" type="xml"/></source><source path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\build\generated\res\rs\debug"/><source path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\debug\res"/></dataSet><mergedItems/></merger>

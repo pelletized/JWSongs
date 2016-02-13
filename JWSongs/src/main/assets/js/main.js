@@ -22,7 +22,7 @@ function List() {
 		var tocButton = "";
 		var innerHTML = "";
 		toc.innerHTML = "";
-		var max = 145;
+		var max = 150;
 		songNum = 1; //global
 
 		for (var i = 1; i <= max; i++){
