@@ -1913,5 +1913,61 @@ var songdata = [
 		],
 		"chorus" : "Con pensamientos positivos,<br>pido valor a Dios.<br>Con entusiasmo me preparo,<br>es lo mejor.<br>Cuando predico, no voy solo,<br>miedo no sentiré.<br>Voy de la mano de Jehová Dios,<br>no temeré.",
 		"footer" : "(Vea también Ecl. 11:4; Mat. 10:5, 7; Luc. 10:1; Tito 2:14)."
+	},
+	{
+		"number" : "146",
+		"title" : "Próximamente",
+		"scripture" : "",
+		"verse" : [
+				""
+		],
+		"chorus" : "",
+		"footer" : ""
+	},
+	{
+		"number" : "147",
+		"title" : "Una posesión especial",
+		"scripture" : "(1 Pedro 2:9)",
+		"verse" : [
+				"1. ¡Miren el nuevo pueblo<br>que Dios con amor creó!<br>Lo compró de la Tierra,<br>le dará salvación.",
+
+				"2. Son los ungidos santos,<br>nación que fundó Jehová.<br>No están en tinieblas,<br>pues la luz Dios les da.",
+
+				"3. Son fieles al Cordero,<br>le sirven con lealtad.<br>A las otras ovejas<br>con bondad cuidarán."
+		],
+		"chorus" : "Jehová, son tus hijos,<br>tu tesoro especial.<br>Te quieren, te honran,<br>proclaman unidos tu verdad.",
+		"footer" : "(Vea también Is. 43:20b, 21; Mal. 3:17; Col. 1:13)."
+	},
+	{
+		"number" : "148",
+		"title" : "Próximamente",
+		"scripture" : "",
+		"verse" : [
+				""
+		],
+		"chorus" : "",
+		"footer" : ""
+	},
+	{
+		"number" : "149",
+		"title" : "Gracias por el rescate",
+		"scripture" : "(Lucas 22:20)",
+		"verse" : [
+				"1. Jehová, con gratitud<br>queremos hoy cantar.<br>Tu amor eterno,<br>nadie podrá superar.<br>Tu Hijo tan amado diste<br>por bondad;<br>el sacrificio de Jesús<br>nos da libertad.",
+
+				"2. No fue con oro<br>que Jesús nos rescató.<br>Su preciosa vida<br>quiso ceder por amor.<br>Ya no vivimos tristes<br>en oscuridad;<br>tenemos esperanza<br>de no morir jamás."
+		],
+		"chorus" : "Su sangre fue de gran valor,<br>nos regaló la salvación.<br>De corazón queremos<br>siempre darte gracias, Dios.",
+		"footer" : "(Vea también Heb. 9:13, 14; 1 Ped. 1:18, 19)."
+	},
+	{
+		"number" : "150",
+		"title" : "Próximamente",
+		"scripture" : "",
+		"verse" : [
+				""
+		],
+		"chorus" : "",
+		"footer" : ""
 	}
 ];

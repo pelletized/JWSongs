@@ -80,7 +80,7 @@ public class AboutActivity extends Activity {
     public void onClickEmail(View v) {
         String emailSubject = "About ".concat(getString(R.string.app_name));
         Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts("mailto","ed@pelletized.com", null));
-        intent.putExtra(Intent.EXTRA_SUBJECT, emailSubject );
+        intent.putExtra(Intent.EXTRA_SUBJECT, emailSubject);
         //startActivity(intent);
         startActivity(Intent.createChooser(intent, "Send email..."));
     }
@@ -94,12 +94,21 @@ public class AboutActivity extends Activity {
         }
     }
 
+    public void onClickUpdate(View v) {
+        final String appPackageName = getPackageName();
+        try {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
+        } catch (android.content.ActivityNotFoundException anfe) {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://play.google.com/store/apps/details?id=" + appPackageName)));
+        }
+    }
+
     public void onClickShare(View v) {
         final String appPackageName = getPackageName();
         Intent intent = new Intent(Intent.ACTION_SEND);
         intent.setType("text/plain");
         intent.putExtra(Intent.EXTRA_SUBJECT, "JW Songs");
-        intent.putExtra(Intent.EXTRA_TEXT, "Check out this app Songs for Jehovah http://play.google.com/store/apps/details?id=" + appPackageName);
+        intent.putExtra(Intent.EXTRA_TEXT, "Check out this app Theocratic Songs http://play.google.com/store/apps/details?id=" + appPackageName);
         startActivity(Intent.createChooser(intent, "Share..."));
     }
 

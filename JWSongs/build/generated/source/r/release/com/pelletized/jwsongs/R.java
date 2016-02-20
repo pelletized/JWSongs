@@ -27,18 +27,19 @@ public final class R {
         public static final int pressed=0x7f020003;
     }
     public static final class id {
-        public static final int about=0x7f0a000b;
-        public static final int action_settings=0x7f0a000a;
+        public static final int about=0x7f0a000c;
+        public static final int action_settings=0x7f0a000b;
         public static final int buildVersion=0x7f0a0000;
-        public static final int changeLog=0x7f0a0001;
-        public static final int changeLogSubhead=0x7f0a0002;
-        public static final int emailDev=0x7f0a0003;
-        public static final int emailDevSubhead=0x7f0a0004;
-        public static final int rateApp=0x7f0a0005;
-        public static final int rateAppSubhead=0x7f0a0006;
-        public static final int shareSubhead=0x7f0a0008;
-        public static final int shareText=0x7f0a0007;
-        public static final int webView=0x7f0a0009;
+        public static final int changeLog=0x7f0a0002;
+        public static final int changeLogSubhead=0x7f0a0003;
+        public static final int checkUpdates=0x7f0a0001;
+        public static final int emailDev=0x7f0a0004;
+        public static final int emailDevSubhead=0x7f0a0005;
+        public static final int rateApp=0x7f0a0006;
+        public static final int rateAppSubhead=0x7f0a0007;
+        public static final int shareSubhead=0x7f0a0009;
+        public static final int shareText=0x7f0a0008;
+        public static final int webView=0x7f0a000a;
     }
     public static final class layout {
         public static final int activity_about=0x7f030000;
@@ -52,23 +53,24 @@ public final class R {
         public static final int about_build_version=0x7f060000;
         public static final int about_changelog_summary=0x7f060001;
         public static final int about_changelog_title=0x7f060002;
-        public static final int about_email=0x7f060003;
-        public static final int about_email_summary=0x7f060004;
-        public static final int about_rate=0x7f060005;
-        public static final int about_rate_summary=0x7f060006;
-        public static final int about_share=0x7f060007;
-        public static final int about_share_summary=0x7f060008;
-        public static final int action_settings=0x7f060009;
-        public static final int app_name=0x7f06000a;
-        public static final int change_log_message=0x7f060013;
-        public static final int summary_off_pref_sleep=0x7f06000b;
-        public static final int summary_on_pref_sleep=0x7f06000c;
-        public static final int summary_pref_font_size=0x7f06000d;
-        public static final int summary_pref_language=0x7f06000e;
-        public static final int title_activity_about=0x7f06000f;
-        public static final int title_pref_font_size=0x7f060010;
-        public static final int title_pref_language=0x7f060011;
-        public static final int title_pref_sleep=0x7f060012;
+        public static final int about_check=0x7f060003;
+        public static final int about_email=0x7f060004;
+        public static final int about_email_summary=0x7f060005;
+        public static final int about_rate=0x7f060006;
+        public static final int about_rate_summary=0x7f060007;
+        public static final int about_share=0x7f060008;
+        public static final int about_share_summary=0x7f060009;
+        public static final int action_settings=0x7f06000a;
+        public static final int app_name=0x7f06000b;
+        public static final int change_log_message=0x7f060014;
+        public static final int summary_off_pref_sleep=0x7f06000c;
+        public static final int summary_on_pref_sleep=0x7f06000d;
+        public static final int summary_pref_font_size=0x7f06000e;
+        public static final int summary_pref_language=0x7f06000f;
+        public static final int title_activity_about=0x7f060010;
+        public static final int title_pref_font_size=0x7f060011;
+        public static final int title_pref_language=0x7f060012;
+        public static final int title_pref_sleep=0x7f060013;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

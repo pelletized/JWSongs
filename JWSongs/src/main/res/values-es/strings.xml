@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">JW Songs</string>
+    <string name="app_name">Theocratic Songs</string>
     <string name="action_settings">Configuración</string>
-    <string name="title_activity_about">Acerca de JW Songs</string>
+    <string name="title_activity_about">Acerca de Theocratic Songs</string>
 
     <string name="title_pref_font_size">tamaño de la fuente</string>
     <string name="summary_pref_font_size">Elija un tamaño de fuente por defecto</string>
@@ -22,8 +22,10 @@
     <string name="about_email_summary">Envíe cualquier pregunta o informes de error</string>
 
     <string name="about_rate">Calificar este programa</string>
-    <string name="about_rate_summary">Comparte tus opiniones acerca de esta aplicación</string>
+    <string name="about_rate_summary">Compartir sus opiniones acerca de esta aplicación</string>
 
     <string name="about_share">Compartir</string>
     <string name="about_share_summary">Dile a tus amigos</string>
+
+    <string name="about_check">Comprobar si hay actualizaciones</string>
 </resources>

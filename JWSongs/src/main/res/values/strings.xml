@@ -28,7 +28,12 @@
     <string name="about_share">Share</string>
     <string name="about_share_summary">Tell your friends</string>
 
+    <string name="about_check">Check for updates</string>
+
     <string name="change_log_message" translatable="false">
+        <b>1.7.7</b>\n
+        - added songs 147 &amp; 149 in Spanish\n\n
+
         <b>1.7.6</b>\n
         - fixed typos\n
         - added songs 146 - 150 in English\n\n
@@ -50,50 +55,5 @@
 
         <b>1.7.1</b>\n
         - new app name\n\n
-
-        <b>1.7</b>\n
-        - New app name!\n
-        - updated edits to new songs\n\n
-
-        <b>1.6.11</b>\n
-        - added additional verse to song #136 in English and Spanish\n\n
-
-        <b>1.6.10</b>\n
-        - added songs #140-142 in Spanish\n
-        - fixed typo song #73 in Spanish\n\n
-
-        <b>1.6.9</b>\n
-        - added songs #140-142 in English\n
-        - minor adjustments to layout in smallest screen sizes\n\n
-
-        <b>1.6.8</b>\n
-        - added new song #139 in English and Spanish\n\n
-
-        <b>1.6.7</b>\n
-        - added 3 new songs in Spanish\n\n
-
-        <b>1.6.6</b>\n
-        - added 3 new songs in English\n\n
-
-        <b>1.6.5</b>\n
-        - fixed bug where songs don\'t display if system language is Spanish\n\n
-
-        <b>1.6.4</b>\n
-        - minor bug and translation fixes\n\n
-
-        <b>1.6.3</b>\n
-        - Song lyrics are now in Spanish. Go to Settings and click on Language to switch between English and Spanish.\n
-        - Added new About section\n\n
-
-        <b>02/02/2014</b>\n
-        bug fixes\n
-        - screen sleep now remembers settings after closing and reopening app\n\n
-
-        <b>01/29/2014</b>\n
-        bug fixes\n
-        - special characters are now displayed correctly\n
-        new stuff\n
-        - updated navigation! To get back to the list of songs, simply tap the app icon in the top left corner, or tap on the back button at the bottom of your screen. Double tap the back button to exit the app.\n
-        - set screen to not turn off while using the app, in settings menu\n
     </string>
 </resources>
