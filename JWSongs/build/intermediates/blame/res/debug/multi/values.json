@@ -123,14 +123,7 @@
                     "endOffset": 1005
                 },
                 "from": {
-                    "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1355,
-                        "endColumn": 57,
-                        "endOffset": 1408
-                    }
+                    "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -234,9 +227,9 @@
                     "startLine": 36,
                     "startColumn": 4,
                     "startOffset": 1502,
-                    "endLine": 61,
+                    "endLine": 71,
                     "endColumn": 13,
-                    "endOffset": 2191
+                    "endOffset": 2518
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml",
@@ -244,19 +237,19 @@
                         "startLine": 32,
                         "startColumn": 4,
                         "startOffset": 1416,
-                        "endLine": 57,
+                        "endLine": 67,
                         "endColumn": 13,
-                        "endOffset": 2130
+                        "endOffset": 2467
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 2196,
+                    "startOffset": 2523,
                     "endColumn": 80,
-                    "endOffset": 2272
+                    "endOffset": 2599
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml"
@@ -264,11 +257,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 2277,
+                    "startOffset": 2604,
                     "endColumn": 84,
-                    "endOffset": 2357
+                    "endOffset": 2684
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml"
@@ -276,11 +269,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 2362,
+                    "startOffset": 2689,
                     "endColumn": 77,
-                    "endOffset": 2435
+                    "endOffset": 2762
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml"
@@ -288,11 +281,11 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 2440,
+                    "startOffset": 2767,
                     "endColumn": 75,
-                    "endOffset": 2511
+                    "endOffset": 2838
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml"
@@ -300,11 +293,11 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 2516,
+                    "startOffset": 2843,
                     "endColumn": 71,
-                    "endOffset": 2583
+                    "endOffset": 2910
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml"
@@ -312,11 +305,11 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 2588,
+                    "startOffset": 2915,
                     "endColumn": 58,
-                    "endOffset": 2642
+                    "endOffset": 2969
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml"
@@ -324,11 +317,11 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 2647,
+                    "startOffset": 2974,
                     "endColumn": 56,
-                    "endOffset": 2699
+                    "endOffset": 3026
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml"
@@ -336,11 +329,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 2704,
+                    "startOffset": 3031,
                     "endColumn": 57,
-                    "endOffset": 2757
+                    "endOffset": 3084
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\strings.xml"
@@ -348,12 +341,12 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 2762,
-                    "endLine": 76,
+                    "startOffset": 3089,
+                    "endLine": 86,
                     "endColumn": 12,
-                    "endOffset": 3048
+                    "endOffset": 3375
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\styles.xml"
@@ -361,12 +354,12 @@
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 3053,
-                    "endLine": 79,
+                    "startOffset": 3380,
+                    "endLine": 89,
                     "endColumn": 12,
-                    "endOffset": 3208
+                    "endOffset": 3535
                 },
                 "from": {
                     "file": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\values\\styles.xml"

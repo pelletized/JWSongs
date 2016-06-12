@@ -1931,7 +1931,7 @@ var songdata = [
 		"scripture" : "(John 15:13)",
 		"verse" : [
 			"1. Jehovah, dear Father,<br>There seemed no hope for us.<br>The ransom has given<br>Hope to ev’ryone!<br>We give our lives to you,<br>Our best in all we do.<br>And we’ll tell others too,<br>That your will might be done.",
-			"2. There’s a message to preach,<br>so we spread it all abroad.<br>We invite all to come and<br>be reconciled to God.",
+			"2.  Your kindness, your mercy,<br>They draw us close to you.<br>Your great name, your friendship,<br>These we’ve come to love.<br>But something more than this<br>Is your most precious gift.<br>He died that we might live.<br>You sent him from above.",
 			"(Ending)<br>Jehovah, dear Father, we pray in gratitude.<br>We offer our thanks, for giving us your only Son."
 		],
 		"chorus" : "You gave your only Son,<br>And now we sing as one,<br>A song we’ll sing forever,<br>for giving us your only Son.",

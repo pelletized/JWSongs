@@ -16,6 +16,16 @@
         <item>Large (22)</item>
         <item>Extra large (26)</item>
     </string-array></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\res\values\strings.xml" qualifiers=""><string name="about_rate">Rate this app</string><string name="title_pref_sleep">Screen Sleep</string><string name="action_settings">Settings</string><string name="summary_off_pref_sleep">Use phone defaults for screen</string><string name="change_log_message" translatable="false">
+        PLEASE NOTE: All new songs are in beta and have been known to change, please be patient with updates. Thanks for using the app!\n\n
+        <b>1.7.8</b>\n
+        - updated songs in spanish
+
+        <b>1.7.8</b>\n
+        - updated songs in spanish
+
+        <b>1.7.7.1</b>\n
+        - updated song #148 in english\n\n
+
         <b>1.7.7</b>\n
         - added songs 147 &amp; 149 in Spanish\n\n
 

@@ -35,6 +35,14 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">Theocratic Songs</string>
     <string name="change_log_message" translatable="false">
+        PLEASE NOTE: All new songs are in beta and have been known to change, please be patient with updates. Thanks for using the app!\n\n
+
+        <b>1.7.8</b>\n
+        - updated songs in spanish
+
+        <b>1.7.7.1</b>\n
+        - updated song #148 in english\n\n
+
         <b>1.7.7</b>\n
         - added songs 147 &amp; 149 in Spanish\n\n
 
