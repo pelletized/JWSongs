@@ -1960,4 +1960,49 @@ var songdata = [
 		"chorus" : "Reaching out, giving all,<br>for our God above.<br>And where the need is great, there we’ll be,<br>reaching out in love.",
 		"footer" : "(See also John 4:35; Acts 2:8; Rom. 10:14.)"
 	},
+	{
+		"number" : "151",
+		"title" : "Coming soon",
+		"scripture" : "",
+		"verse" : [
+			""
+		],
+		"chorus" : "",
+		"footer" : ""
+	},
+	{
+		"number" : "152",
+		"title" : "Our Strength, Our Hope, Our Confidence",
+		"scripture" : "(Proverbs 14:26)",
+		"verse" : [
+			"1. O Jehovah, you have given us<br>a hope that we hold dear.<br>It’s a hope we find so thrilling<br>we want the world to hear.<br>But at times this life’s anxieties<br>are the cause of fears within,<br>And the hope that burned so brightly<br>has suddenly grown dim.",
+			"2. So Jehovah, please instill in us<br>a heart that won’t forget,<br>For you’ve always been our comfort<br>when troubled times we’ve met.<br>And these thoughts that lift and strengthen us<br>can revive that dying flame,<br>For they fill our hearts with courage<br>to speak about your name."
+		],
+		"chorus" : "You’re our strength, you’re our hope,<br>you’re our confidence.<br>Whatever we lack, you supply.<br>When we preach, when we teach,<br>we have confidence<br>because it’s on you we rely.",
+		"footer" : "(See also Ps. 72:13, 14; Prov. 3:5, 6, 26; Jer. 17:7.)"
+	},
+	{
+		"number" : "153",
+		"title" : "How Does It Make You Feel?",
+		"scripture" : "(Hebrews 13:15)",
+		"verse" : [
+			"1. How does it make you feel<br>when you preach and teach with zeal,<br>When you know you’ve done your part<br>to reach an honest heart?<br>Knowing you’ve done your best;<br>then our God will do the rest.<br>Honest hearts he surely knows—<br>all those to him disposed.",
+			"2. How does it make you feel<br>when the words you speak appeal<br>To the ones whose heart is right<br>for everlasting life?<br>Some people turn away,<br>others might be led astray.<br>Still we’re glad to bear his name<br>and witness just the same.",
+			"3. How does it make you feel,<br>knowing God’s support is real,<br>And that he’s entrusted you<br>to do the work we do?<br>Proudly we preach and teach,<br>using bold but gracious speech,<br>Searching out deserving ones;<br>this work will soon be done."
+		],
+		"chorus" : "It makes us glad, and we rejoice<br>to give our heart and mind and voice.<br>So may our sacrifice of praise<br>continue all our days.",
+		"footer" : "(See also Acts 13:48; 1 Thess. 2:4; 1 Tim. 1:11.)"
+	},
+	{
+		"number" : "154",
+		"title" : "We Will Keep Enduring",
+		"scripture" : "(Matthew 24:13)",
+		"verse" : [
+			"1. How can we endure<br>When trials come, as Jesus said?<br>Through his pain he saw<br>The joy of better things ahead.<br>God’s promise, God’s justice,<br>Were thoughts on which he fed.",
+			"2. Though the passing years<br>May bring us sorrow, bring us pain;<br>There beyond the tears,<br>We see the life that we can gain.<br>To be there, feel free there,<br>Determined we remain.",
+			"3. We will not give up<br>Nor see the need for doubt or fear.<br>Faithfully we’ll serve<br>Until Jehovah’s day is here.<br>Let’s keep on enduring.<br>That time is very near."
+		],
+		"chorus" : "We need to have endurance.<br>Our faith we must defend.<br>His love is our assurance.<br>So we will keep enduring to the end.",
+		"footer" : "(See also Acts 20:19, 20; Jas. 1:12; 1 Pet. 4:12-14.)"
+	},
 ];

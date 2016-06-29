@@ -1966,12 +1966,59 @@ var songdata = [
 	},
 	{
 		"number" : "150",
-		"title" : "Próximamente",
+		"title" : "Servimos donde se nos necesite",
+		"scripture" : "(Mateo 9:37, 38)",
+		"verse" : [
+				"1. Hay una gran necesidad<br>hoy en el pueblo de Jehová.<br>Con gozo me ofreceré,<br>¡con emoción trabajaré!",
+				"2. Hay que construir con ilusión<br>lugares de adoración.<br>También podemos estudiar<br>idiomas para predicar.",
+				"3. Ayudaré de corazón<br>también en mi congregación.<br>Tenemos mucho por hacer;<br>¡servir a Dios es un placer!"
+		],
+		"chorus" : "¡Vamos a trabajar<br>para nuestro Dios!<br>Daremos a Jehová lo mejor,<br>siempre por amor.",
+		"footer" : "(Vea también Juan 4:35; Hech. 2:8; Rom. 10:14)."
+	},
+	{
+		"number" : "151",
+		"title" : "",
 		"scripture" : "",
 		"verse" : [
 				""
 		],
 		"chorus" : "",
 		"footer" : ""
+	},
+	{
+		"number" : "152",
+		"title" : "Tú me das fuerza,<br>confianza y valor",
+		"scripture" : "(Proverbios 14:26)",
+		"verse" : [
+				"1. Padre mío, tú lo sabes bien,<br>yo siempre te querré.<br>Tú me diste un futuro<br>que no olvidaré.<br>Pero vivo en un mundo cruel<br>que me llena de dolor.<br>No permitas que apague<br>la llama del amor.",
+				"2. Cuando miro hacia el ayer,<br>yo sé que fuiste tú<br>quien estuvo a mi lado<br>enviándome su luz.<br>Nada me separará de ti,<br>eres todo lo que soy.<br>Hablaré de tus promesas,<br>mi corazón te doy."
+		],
+		"chorus" : "Cuando siento temor,<br>tú me das valor,<br>y no me defraudas jamás.<br>Con tu fuerza podré<br>proclamar mi fe.<br>Confío en ti, oh, Jehová.",
+		"footer" : "(Vea también Sal. 72:13, 14; Prov. 3:5, 6, 26; Jer. 17:7)."
+	},
+	{
+		"number" : "153",
+		"title" : "Cuéntame lo que sientes",
+		"scripture" : "(Hebreos 13:15)",
+		"verse" : [
+				"1. ¿Qué sientes al salir<br>a cumplir tu comisión,<br>al tratar de conseguir<br>tocar un corazón?<br>¿Qué sientes al saber,<br>cuando vas a predicar,<br>que Jehová con su poder<br>te puede ayudar?",
+				"2. ¿Qué sientes al llevar<br>con paciencia y bondad<br>el mensaje de Jehová<br>a la humanidad?<br>¿Qué sientes al lograr<br>que acepten la verdad?<br>Aunque muchos no querrán,<br>jamás nos detendrán.",
+				"3. ¿Qué sientes al tener<br>a tu lado al Señor,<br>al cumplir con tu deber<br>en esta gran labor?<br>¿Qué sientes al servir<br>con esmero a Jehová?<br>Necesitas resistir,<br>muy poco queda ya."
+		],
+		"chorus" : "Me siento bien al dar a Dios<br>honor y gloria con mi voz.<br>¡Por eso no voy a dejar<br>de ir a predicar!",
+		"footer" : "(Vea también Hech. 13:48; 1 Tes. 2:4; 1 Tim. 1:11)."
+	},
+	{
+		"number" : "154",
+		"title" : "Sirvamos con aguante",
+		"scripture" : "(Mateo 24:13)",
+		"verse" : [
+				"1. Cristo aguantó<br>problemas y persecución.<br>Él se concentró<br>en lo que Dios le prometió.<br>Sigamos sus pasos<br>con mucha atención.",
+				"2. Cuando la vejez<br>nos llene de calamidad,<br>hay que meditar<br>en las promesas de Jehová.<br>Muy pronto tendremos<br>la vida de verdad.",
+				"3. Hay que aguantar;<br>cualquier dolor es temporal.<br>No hay que dudar,<br>ya vemos casi el final.<br>Seamos leales<br>al Dios universal."
+		],
+		"chorus" : "Miramos adelante,<br>confiamos en Jehová.<br>Servimos con aguante<br>y no nos vamos a rendir jamás.",
+		"footer" : "(Vea también Hech. 20:19, 20; Sant. 1:12; 1 Ped. 4:12-14)."
 	}
 ];

@@ -6,7 +6,7 @@ ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.x
 	package
 		ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml:3:5-37
 	android:versionName
-		ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml:5:5-32
+		ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml:5:5-33
 		INJECTED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml
 	android:versionCode
