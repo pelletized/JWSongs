@@ -1962,13 +1962,15 @@ var songdata = [
 	},
 	{
 		"number" : "151",
-		"title" : "Coming soon",
-		"scripture" : "",
+		"title" : "The Revealing of God’s Sons",
+		"scripture" : "(Romans 8:19)",
 		"verse" : [
-			""
+			"1. The time is near when God reveals<br>His faithful chosen ones.<br>In heaven they will rule with Christ<br>as mighty spirit sons.",
+			"2. And soon the last remaining ones<br>Will hear his final call.<br>The King of kings and Lord of lords<br>Will then collect them all.",
+			"3. (BRIDGE)<br>And then with Christ, these sons of God<br>will wage the final war.<br>The joyous marriage to the Lamb<br>will last forevermore."
 		],
-		"chorus" : "",
-		"footer" : ""
+		"chorus" : "The sons of God will be revealed<br>Along with Christ, their Lord.<br>They’ll join him in his victory<br>And share in his reward.",
+		"footer" : "(See also Dan. 2:34, 35; 1 Cor. 15:51, 52; 1 Thess. 4:15-17.)"
 	},
 	{
 		"number" : "152",

@@ -1978,13 +1978,15 @@ var songdata = [
 	},
 	{
 		"number" : "151",
-		"title" : "",
-		"scripture" : "",
+		"title" : "La revelación de los hijos de Dios",
+		"scripture" : "(Romanos 8:19)",
 		"verse" : [
-				""
+			"1.  La creación anhela hoy<br>ver la revelación<br>de los ungidos de Jehová<br>con gran expectación.",
+			"2.  El Rey de reyes pronto ya<br>con su voz llamará<br>a los restantes que con él<br>al cielo subirán.",
+			"(PUENTE)<br>Al terminar Armagedón,<br>la boda llegará.<br>Con el Cordero vivirán<br>por la eternidad."
 		],
-		"chorus" : "",
-		"footer" : ""
+		"chorus" : "Los santos hijos de Jehová<br>con Cristo, su Señor,<br>en la batalla vencerán<br>con gloria y honor.",
+		"footer" : "(Vea también Dan. 2:34, 35; 1 Cor. 15:51, 52; 1 Tes. 4:15-17)."
 	},
 	{
 		"number" : "152",

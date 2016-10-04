@@ -1,3 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffcec63bfbe664f150a667f191c0a942188fd639">
+        <dex dex="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eec5014ecc831f58360f9d7c54b28e0504799b5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="834b981397a41d5fdf4cddc8871904751e66bc89">
+        <dex dex="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_917d5f7dcdd0831f88f536e5bad83f489f6c3c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ed\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3fe75433da602500cc71fcc1c46e5550291dd45d">
+        <dex dex="C:\Users\Ed\StudioProjects\JWSongs\JWSongs\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-13.0.0_db163651eab1d888fb1d9c1096ab3ce62c958428\classes.dex" />
+    </item>
+
+</items>

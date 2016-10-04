@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml:2:1-41:12
-	xmlns:android
-		ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml:2:11-69
 	package
 		ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml:3:5-37
 	android:versionName
@@ -13,6 +11,8 @@ ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.x
 		ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml:4:5-29
 		INJECTED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from C:\Users\Ed\StudioProjects\JWSongs\JWSongs\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion

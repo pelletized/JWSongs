@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed.xml",
-        "source": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\drawable\\pressed.xml"
-    },
-    {
         "merged": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
         "source": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed.xml",
+        "source": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\src\\main\\res\\drawable\\pressed.xml"
     },
     {
         "merged": "C:\\Users\\Ed\\StudioProjects\\JWSongs\\JWSongs\\build\\intermediates\\res\\merged\\debug\\drawable\\normal.xml",
